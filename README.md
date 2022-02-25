@@ -38,6 +38,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Symantec | HermeticWiper | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia) |
 | SentinelLabs | HermeticWiper | [sentinelone.com]( https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/ ) |
 | Cisco Talos | HermeticWiper | [blog.talosintelligence.com](https://blog.talosintelligence.com/2022/02/threat-advisory-hermeticwiper.html) |
+| Zscaler | HermeticWiper | [zscaler.com](https://www.zscaler.com/blogs/security-research/hermetic-wiper-resurgence-targeted-attacks-ukraine) |
 | 360 NetLab | DDoS (Mirai, Gafgyt, IRCbot, Ripprbot, Moobot) | [blog.netlab.360.com](https://blog.netlab.360.com/some_details_of_the_ddos_attacks_targeting_ukraine_and_russia_in_recent_days/) |
 | Conti [themselves] | Conti ransomware, BazarLoader | Conti News .onion [not linked] |
 | CoomingProject [themselves] | Data Hostage Group | CoomingProject Telegram [not linked] |
@@ -50,6 +51,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | CronUp | Data broker "FreeCvilian" offering multiple .gov.ua | [twitter.com/1ZRR4H](https://twitter.com/1ZRR4H/status/1496931721052311557)|
 | RaidForums | Data broker "Mont4na" offering PrivatBank | RaidForums [not linked] |
 | Telegraph | Unknown cyberattack on NVIDIA | [telegraph.co.uk](https://www.telegraph.co.uk/business/2022/02/25/us-microchip-powerhouse-nvidia-hit-cyber-attack/ ) |
+| Zscaler | PartyTicket | [zscaler.com](https://www.zscaler.com/blogs/security-research/technical-analysis-partyticket-ransomware) |
 
 #### `Vendor Support`
 
@@ -61,3 +63,4 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Flashpoint | Free Access to Flashpoint’s Latest Threat Intel on Ukraine | [go.flashpoint-intel.com](https://go.flashpoint-intel.com/trial/access/30days) |
 | ThreatABLE | A Ukraine tag for free threat intelligence feed that's more highly curated to cyber| [twitter.com/threatable](https://twitter.com/threatable/status/1497233721803644950) |
 | Orange | IOCs related to Russia-Ukraine 2022 conflict extracted from our Datalake Threat Intelligence platform. | [github.com/Orange-Cyberdefense](https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs)|
+| FSecure | F-Secure FREEDOME VPN is now available for free in all of Ukraine | [twitter.com/FSecure](https://twitter.com/FSecure/status/1497248407303462960) |
