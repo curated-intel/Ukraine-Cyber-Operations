@@ -50,6 +50,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | SSSCIP Ukraine | Unkown phishing | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1497103078029291522) |
 | CronUp | Data broker "FreeCvilian" offering multiple .gov.ua | [twitter.com/1ZRR4H](https://twitter.com/1ZRR4H/status/1496931721052311557)|
 | RaidForums | Data broker "Mont4na" offering PrivatBank | RaidForums [not linked] |
+| RaidForums | Data broker "NetSec"  offering FSB (likely SMTP accounts) | RaidForums [not linked] |
 | Telegraph | Unknown cyberattack on NVIDIA | [telegraph.co.uk](https://www.telegraph.co.uk/business/2022/02/25/us-microchip-powerhouse-nvidia-hit-cyber-attack/ ) |
 | Zscaler | PartyTicket | [zscaler.com](https://www.zscaler.com/blogs/security-research/technical-analysis-partyticket-ransomware) |
 
