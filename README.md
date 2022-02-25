@@ -60,3 +60,4 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Recorded Future | Providing free intelligence-driven insights, perspectives, and mitigation strategies as the situation in Ukraine evolves| [recordedfuture.com](https://www.recordedfuture.com/ukraine/) |
 | Flashpoint | Free Access to Flashpoint’s Latest Threat Intel on Ukraine | [go.flashpoint-intel.com](https://go.flashpoint-intel.com/trial/access/30days) |
 | ThreatABLE | A Ukraine tag for free threat intelligence feed that's more highly curated to cyber| [twitter.com/threatable](https://twitter.com/threatable/status/1497233721803644950) |
+| Orange | IOCs related to Russia-Ukraine 2022 conflict extracted from our Datalake Threat Intelligence platform. | [github.com/Orange-Cyberdefense](https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs)|
