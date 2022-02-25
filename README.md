@@ -23,6 +23,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | CoomingProject [themselves] | Data Hostage Group | CoomingProject Telegram [not linked] |
 | CERT-UA | UNC1151/Ghostwriter (Belarus MoD) | [CERT-UA Facebook](https://m.facebook.com/story.php?story_fbid=312939130865352&id=100064478028712)|
 | Sekoia | UNC1151/Ghostwriter (Belarus MoD) | [twitter.com/sekoia_io](https://twitter.com/sekoia_io/status/1497239319295279106) |
+| @jaimeblascob | UNC1151/Ghostwriter (Belarus MoD) | [twitter.com/jaimeblasco](https://twitter.com/jaimeblascob/status/1497242668627370009)|
 | MalwareHunterTeam | Unknown phishing | [twitter.com/malwrhunterteam](https://twitter.com/malwrhunterteam/status/1497235270416097287) |
 | ESET | Unkown scammers | [twitter.com/ESETresearch](https://twitter.com/ESETresearch/status/1497194165561659394) |
 | SSSCIP Ukraine | Unkown phishing | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1497103078029291522) |
