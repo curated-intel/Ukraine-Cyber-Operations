@@ -68,3 +68,4 @@ Curated Intelligence is working with analysts from around the world to provide u
 | ThreatABLE | A Ukraine tag for free threat intelligence feed that's more highly curated to cyber| [twitter.com/threatable](https://twitter.com/threatable/status/1497233721803644950) |
 | Orange | IOCs related to Russia-Ukraine 2022 conflict extracted from our Datalake Threat Intelligence platform. | [github.com/Orange-Cyberdefense](https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs)|
 | FSecure | F-Secure FREEDOME VPN is now available for free in all of Ukraine | [twitter.com/FSecure](https://twitter.com/FSecure/status/1497248407303462960) |
+| Multiple vendors | List of vendors offering their services to Ukraine for free, put together by [@chrisculling](https://twitter.com/chrisculling/status/1497023038323404803) | [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/18WYY9p1_DLwB6dnXoiiOAoWYD8X0voXtoDl_ZQzjzUQ/edit#gid=0) |
