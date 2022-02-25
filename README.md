@@ -29,8 +29,10 @@ Curated Intelligence is working with analysts from around the world to provide u
 
 | Source | Threat(s) | URL |
 | --- | --- | --- |
-| Symantec | Gamaredon/Shuckworm/PrimitiveBear | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine) |
+| Symantec | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine) |
 | PAN Unit42 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/gamaredon-primitive-bear-ukraine-update-2021/) |
+| @500mk500 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [twitter.com/500mk500](https://twitter.com/500mk500/status/1497339266329894920?s=20&t=opOtwpn82ztiFtwUbLkm9Q) |
+| @500mk500 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [twitter.com/500mk500](https://twitter.com/500mk500/status/1497208285472215042)|
 | CERT-UA | UAC-0056 using SaintBot and OutSteel malware | [cert.gov.ua](https://cert.gov.ua/article/18419) |
 | NSFOCUS | Lorec53 | [nsfocusglobal.com](https://nsfocusglobal.com/apt-retrospection-lorec53-an-active-russian-hack-group-launched-phishing-attacks-against-georgian-government) |
 | UK NCSC | Sanworm/VoodooBear (GRU) | [ncsc.gov.uk](https://www.ncsc.gov.uk/files/Joint-Sandworm-Advisory.pdf) |
@@ -52,7 +54,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | RaidForums | Data broker "Mont4na" offering PrivatBank | RaidForums [not linked] |
 | RaidForums | Data broker "NetSec"  offering FSB (likely SMTP accounts) | RaidForums [not linked] |
 | Telegraph | Unknown cyberattack on NVIDIA | [telegraph.co.uk](https://www.telegraph.co.uk/business/2022/02/25/us-microchip-powerhouse-nvidia-hit-cyber-attack/ ) |
-| Zscaler | PartyTicket | [zscaler.com](https://www.zscaler.com/blogs/security-research/technical-analysis-partyticket-ransomware) |
+| Zscaler | PartyTicket decoy ransomware | [zscaler.com](https://www.zscaler.com/blogs/security-research/technical-analysis-partyticket-ransomware) |
 
 #### `Vendor Support`
 
