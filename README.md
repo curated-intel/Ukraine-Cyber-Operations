@@ -49,3 +49,12 @@ Curated Intelligence is working with analysts from around the world to provide u
 | CronUp | Data broker "FreeCvilian" offering multiple .gov.ua | [twitter.com/1ZRR4H](https://twitter.com/1ZRR4H/status/1496931721052311557)|
 | RaidForums | Data broker "Mont4na" offering PrivatBank | RaidForums [not linked] |
 | Telegraph | Unknown cyberattack on NVIDA | [telegraph.co.uk](https://www.telegraph.co.uk/business/2022/02/25/us-microchip-powerhouse-nvidia-hit-cyber-attack/ ) |
+
+#### `Vendor Support`
+
+| Vendor | Offering | URL |
+| --- | --- | --- |
+| Dargos | Access to Dragos service if from US/UK/ANZ and in need of ICS cybersecurity support | [twitter.com/RobertMLee](https://twitter.com/RobertMLee/status/1496862093588455429) |
+| GeryNoise |  Any and all `Ukrainian` emails registered to GreyNoise have been upgraded to VIP which includes full, uncapped enterprise access to all GreyNoise products | [twitter.com/Andrew___Morris](https://twitter.com/Andrew___Morris/status/1496923545712091139) |
+| Recorded Future | Providing free intelligence-driven insights, perspectives, and mitigation strategies as the situation in Ukraine evolves| [recordedfuture.com](https://www.recordedfuture.com/ukraine/) |
+| Flashpoint | Free Access to Flashpoint’s Latest Threat Intel on Ukraine | [go.flashpoint-intel.com](https://go.flashpoint-intel.com/trial/access/30days) |
