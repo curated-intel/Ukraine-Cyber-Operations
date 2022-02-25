@@ -37,6 +37,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | ESET | HermeticWiper | [welivesecurity.com](https://www.welivesecurity.com/2022/02/24/hermeticwiper-new-data-wiping-malware-hits-ukraine/) |
 | Symantec | HermeticWiper | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia) |
 | SentinelLabs | HermeticWiper | [sentinelone.com]( https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/ ) |
+| Cisco Talos | HermeticWiper | [blog.talosintelligence.com](https://blog.talosintelligence.com/2022/02/threat-advisory-hermeticwiper.html) |
 | 360 NetLab | DDoS (Mirai, Gafgyt, IRCbot, Ripprbot, Moobot) | [blog.netlab.360.com](https://blog.netlab.360.com/some_details_of_the_ddos_attacks_targeting_ukraine_and_russia_in_recent_days/) |
 | Conti [themselves] | Conti ransomware, BazarLoader | Conti News .onion [not linked] |
 | CoomingProject [themselves] | Data Hostage Group | CoomingProject Telegram [not linked] |
