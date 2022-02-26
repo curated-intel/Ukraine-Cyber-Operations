@@ -38,7 +38,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 31 JAN | Symantec | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine) |
 | 2 FEB | CERT-UA | UAC-0056 using SaintBot and OutSteel malware | [cert.gov.ua](https://cert.gov.ua/article/18419) |
 | 3 FEB | PAN Unit42 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/gamaredon-primitive-bear-ukraine-update-2021/) |
-| 4 FEB | Microsoft | Gamaredon/Shuckworm/PrimitiveBear | [microsoft.com](https://www.microsoft.com/security/blog/2022/02/04/actinium-targets-ukrainian-organizations/) |
+| 4 FEB | Microsoft | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [microsoft.com](https://www.microsoft.com/security/blog/2022/02/04/actinium-targets-ukrainian-organizations/) |
 | 8 FEB | NSFOCUS | Lorec53 | [nsfocusglobal.com](https://nsfocusglobal.com/apt-retrospection-lorec53-an-active-russian-hack-group-launched-phishing-attacks-against-georgian-government) |
 | 23 FEB | UK NCSC | Sandworm/VoodooBear (GRU) | [ncsc.gov.uk](https://www.ncsc.gov.uk/files/Joint-Sandworm-Advisory.pdf) |
 | 23 FEB | SentinelLabs | HermeticWiper | [sentinelone.com]( https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/ ) |
