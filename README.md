@@ -76,6 +76,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 26 FEB | MHT and TRMLabs | Unknown scammers, linked to ransomware | [twitter.com/joes_mcgill](https://twitter.com/joes_mcgill/status/1497609555856932864?s=20&t=KCIX_1Ughc2Fs6Du-Av0Xw) |
 | 26 FEB | US CISA | WhisperGate wiper, HermeticWiper | [cisa.gov](https://www.cisa.gov/uscert/ncas/alerts/aa22-057a) |
 | 26 FEB | Bloomberg | Destructive malware (possibly HermeticWiper) deployed at Ukrainian Ministry of Internal Affairs & data stolen from Ukrainian telecommunications networks | [bloomberg.com](https://www.bloomberg.com/news/articles/2022-02-26/hackers-destroyed-data-at-key-ukraine-agency-before-invasion?sref=ylv224K8) |
+| 26 FEB | Vice Prime Minister of Ukraine | IT ARMY of Ukraine created to crowdsource offensive operations against Russian infrastructure | [twitter.com/FedorovMykhailo](https://twitter.com/FedorovMykhailo/status/1497642156076511233) |
 
 #### `Vendor Support`
 | Vendor | Offering | URL |
