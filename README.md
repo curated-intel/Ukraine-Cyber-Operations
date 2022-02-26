@@ -60,7 +60,8 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 25 FEB | @jaimeblascob | UNC1151/Ghostwriter (Belarus MoD) | [twitter.com/jaimeblasco](https://twitter.com/jaimeblascob/status/1497242668627370009)|
 | 25 FEB | RISKIQ | UNC1151/Ghostwriter (Belarus MoD) | [community.riskiq.com](https://community.riskiq.com/article/e3a7ceea/) |
 | 25 FEB | MalwareHunterTeam | Unknown phishing | [twitter.com/malwrhunterteam](https://twitter.com/malwrhunterteam/status/1497235270416097287) |
-| 25 FEB | ESET | Unkown scammers | [twitter.com/ESETresearch](https://twitter.com/ESETresearch/status/1497194165561659394) |
+| 25 FEB | ESET | Unknown scammers | [twitter.com/ESETresearch](https://twitter.com/ESETresearch/status/1497194165561659394) |
+| 25 FEB | BitDefender | Unknown scammers | [blog.bitdefender.com](https://blog.bitdefender.com/blog/hotforsecurity/cybercriminals-deploy-spam-campaign-as-tens-of-thousands-of-ukrainians-seek-refuge-in-neighboring-countries/) |
 | 25 FEB | SSSCIP Ukraine | Unkown phishing | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1497103078029291522) |
 | 25 FEB | RaidForums | Data broker "NetSec"  offering FSB (likely SMTP accounts) | RaidForums [not linked] |
 | 25 FEB | Zscaler | PartyTicket decoy ransomware | [zscaler.com](https://www.zscaler.com/blogs/security-research/technical-analysis-partyticket-ransomware) |
