@@ -90,6 +90,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | FSecure | F-Secure FREEDOME VPN is now available for free in all of Ukraine | [twitter.com/FSecure](https://twitter.com/FSecure/status/1497248407303462960) |
 | Multiple vendors | List of vendors offering their services to Ukraine for free, put together by [@chrisculling](https://twitter.com/chrisculling/status/1497023038323404803) | [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/18WYY9p1_DLwB6dnXoiiOAoWYD8X0voXtoDl_ZQzjzUQ/edit#gid=0) |
 | Mandiant | Free threat intelligence, webinar and guidance for defensive measures relevant to the situation in Ukraine. | [mandiant.com](https://www.mandiant.com/resources/insights/ukraine-crisis-resource-center) |
+| Starlink | Satellite internet constellation operated by SpaceX providing satellite Internet access coverage to Ukraine | [twitter.com/elonmus](https://twitter.com/elonmusk/status/1497701484003213317) |
 
 #### `Vetted OSINT Sources`
 | Handle | Affiliation |
