@@ -35,6 +35,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 23 JAN | RaidForums | Data broker "Mont4na" offering UkrFerry | RaidForums [not linked] |
 | 23 JAN | RaidForums | Data broker "Mont4na" offering PrivatBank | RaidForums [not linked] |
 | 24 JAN | RaidForums | Data broker "Mont4na" offering DTEK | RaidForums [not linked] |
+| 27 JAN | RaidForums | Data broker "an3key" offering SQL DB for Ministry for Communities and Territories Development of Ukraine | RaidForums [not linked] |
 | 31 JAN | Symantec | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine) |
 | 2 FEB | CERT-UA | UAC-0056 using SaintBot and OutSteel malware | [cert.gov.ua](https://cert.gov.ua/article/18419) |
 | 3 FEB | PAN Unit42 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/gamaredon-primitive-bear-ukraine-update-2021/) |
