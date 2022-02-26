@@ -69,6 +69,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 25 FEB | Proofpoint | UNC1151/Ghostwriter (Belarus MoD) | [twitter.com/threatinsight](https://twitter.com/threatinsight/status/1497355737844133895?s=20&t=Ubi0tb_XxGCbHLnUoQVp8w) |
 | 26 FEB | CERT-UA | UNC1151/Ghostwriter (Belarus MoD) | [CERT_UA Facebook](https://facebook.com/story.php?story_fbid=313517477474184&id=100064478028712) |
 | 26 FEB | MHT and TRMLabs | Unknown scammers, linked to ransomware | [twitter.com/joes_mcgill](https://twitter.com/joes_mcgill/status/1497609555856932864?s=20&t=KCIX_1Ughc2Fs6Du-Av0Xw) |
+| 26 FEB | US CISA | WhisperGate wiper, HermeticWiper | [cisa.gov](https://www.cisa.gov/uscert/ncas/alerts/aa22-057a) |
 
 #### `Vendor Support`
 | Vendor | Offering | URL |
