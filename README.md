@@ -44,6 +44,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 4 FEB | Microsoft | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [microsoft.com](https://www.microsoft.com/security/blog/2022/02/04/actinium-targets-ukrainian-organizations/) |
 | 8 FEB | NSFOCUS | Lorec53 | [nsfocusglobal.com](https://nsfocusglobal.com/apt-retrospection-lorec53-an-active-russian-hack-group-launched-phishing-attacks-against-georgian-government) |
 | 15 FEB | CERT-UA | DDoS attacks against the name server of government websites as well as Oschadbank (State Savings Bank) & Privatbank (largest commercial bank). False SMS and e-mails to create panic | [cert.gov.ua](https://cert.gov.ua/article/37139) |
+| 23 FEB | The Daily Beast | Ukrainian troops receive threatening SMS messages | [thedailybeast.com](https://www.thedailybeast.com/cyberattacks-hit-websites-and-psy-ops-sms-messages-targeting-ukrainians-ramp-up-as-russia-moves-into-ukraine) |
 | 23 FEB | UK NCSC | Sandworm/VoodooBear (GRU) | [ncsc.gov.uk](https://www.ncsc.gov.uk/files/Joint-Sandworm-Advisory.pdf) |
 | 23 FEB | SentinelLabs | HermeticWiper | [sentinelone.com]( https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/ ) |
 | 24 FEB | ESET | HermeticWiper | [welivesecurity.com](https://www.welivesecurity.com/2022/02/24/hermeticwiper-new-data-wiping-malware-hits-ukraine/) |
