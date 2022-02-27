@@ -81,6 +81,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 26 FEB | Bloomberg | Destructive malware (possibly HermeticWiper) deployed at Ukrainian Ministry of Internal Affairs & data stolen from Ukrainian telecommunications networks | [bloomberg.com](https://www.bloomberg.com/news/articles/2022-02-26/hackers-destroyed-data-at-key-ukraine-agency-before-invasion?sref=ylv224K8) |
 | 26 FEB | Vice Prime Minister of Ukraine | IT ARMY of Ukraine created to crowdsource offensive operations against Russian infrastructure | [twitter.com/FedorovMykhailo](https://twitter.com/FedorovMykhailo/status/1497642156076511233) |
 | 26 FEB | Yoroi | HermeticWiper | [yoroi.company](https://yoroi.company/research/diskkill-hermeticwiper-a-disruptive-cyber-weapon-targeting-ukraines-critical-infrastructures) |
+| 27 FEB | LockBit [themselves] | LockBit ransomware | LockBit .onion [not linked] | 
 
 #### `Vendor Support`
 | Vendor | Offering | URL |
