@@ -28,7 +28,7 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional resources, chronologically ordered (h/t Orange-CD), plus a section on vetted OSINT sources and Miscellaneous resources
 - 2022-02-27
   - Additional threat reports have been added
-  - Additional table for [data broker](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#data-brokers) discussions in past 90 days
+  - Additional table for [data broker](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#data-brokers) discussions since 2021-12-01
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
