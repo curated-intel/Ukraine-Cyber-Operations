@@ -108,3 +108,4 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Source | URL | Content |
 | --- | --- | --- |
 | PowerOutages.com | https://poweroutage.com/ua | Tracking PowerOutages across Ukraine |
+| Monash IP Observatory | https://twitter.com/IP_Observatory | Tracking IP address outages across Ukraine |
