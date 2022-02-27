@@ -33,7 +33,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-02-27
   - Additional threat reports have been added
   - Creation of the table for [data broker](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#data-brokers) discussions since 2021-12-01
-  - Added [Access Broker]() section
+  - Added [Access Broker](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#access-brokers) section
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -87,6 +87,8 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 27 FEB | Mēris Botnet [themselves] | DDoS attacks | vHUMINT [closed source] |
 
 #### `Access Brokers`
+| Date | Source | Threat(s) | Source |
+| --- | --- | --- | --- |
 | 23 JAN | RaidForums | Access broker "Mont4na" offering UkrFerry | RaidForums [not linked] |
 | 23 JAN | RaidForums | Access broker "Mont4na" offering PrivatBank | RaidForums [not linked] |
 | 24 JAN | RaidForums | Access broker "Mont4na" offering DTEK | RaidForums [not linked] |
