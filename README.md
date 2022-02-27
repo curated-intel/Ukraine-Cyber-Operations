@@ -24,7 +24,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 
 - 2022-02-25
   - Creation of the initial repository to help organisations in Ukraine
-  - Added [Threat Repoorts](https://github.com/curated-intel/Ukraine-Cyber-Operations#threat-reports) section
+  - Added [Threat Reports](https://github.com/curated-intel/Ukraine-Cyber-Operations#threat-reports) section
   - Added [Vendor Support](https://github.com/curated-intel/Ukraine-Cyber-Operations#vendor-support) Section
 - 2022-02-26
   - Additional resources, chronologically ordered (h/t Orange-CD)
