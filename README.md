@@ -26,6 +26,8 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Creation of the initial repository to help organisations in Ukraine
 - 2022-02-26
   - Additional resources, chronologically ordered (h/t Orange-CD), plus a section on vetted OSINT sources and Miscellaneous resources
+- 2022-02-27
+  - Additional threat reports have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -98,12 +100,14 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Handle | Affiliation |
 | --- | --- |
 | [@KyivIndependent](https://twitter.com/KyivIndependent) | English-language journalism in Ukraine |
+| [@IAPonomarenko](https://twitter.com/IAPonomarenko) | Defense reporter with The Kyiv Independent |
 | [@KyivPost](https://twitter.com/KyivPost) | English-language journalism in Ukraine |
 | [@Shayan86](https://twitter.com/Shayan86) | BBC World News Disinformation journalist |
 | [@Liveuamap](https://twitter.com/Liveuamap) | Live Universal Awareness Map (“Liveuamap”) independent global news and information site |
 | [@DAlperovitch](https://twitter.com/DAlperovitch) | The Alperovitch Institute for Cybersecurity Studies, Founder & Former CTO of CrowdStrike |
 | [@COUPSURE](https://twitter.com/COUPSURE) | OSINT investigator for Centre for Information Resilience |
 | [@netblocks](https://twitter.com/netblocks) | London-based Internet's Observatory |
+
 
 #### `Miscellaneous Resources`
 | Source | URL | Content |
