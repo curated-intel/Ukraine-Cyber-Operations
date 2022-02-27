@@ -32,7 +32,7 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Added [Miscellaneous resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) section
 - 2022-02-27
   - Additional threat reports have been added
-  - Creation of the table for [data broker](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#data-brokers) discussions since 2021-12-01
+  - Added [Data Broker](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#data-brokers) section, reflecting recent underground forum discussions
   - Added [Access Broker](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#access-brokers) section
 
 #### `Threat Reports`
