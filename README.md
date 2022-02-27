@@ -34,7 +34,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | --- | --- | --- | --- |
 | 14 JAN | SSU Ukraine | Website Defacements | [ssu.gov.ua](https://ssu.gov.ua/novyny/sbu-rozsliduie-prychetnist-rosiiskykh-spetssluzhb-do-sohodnishnoi-kiberataky-na-orhany-derzhavnoi-vlady-ukrainy)|
 | 15 JAN | Microsoft | WhisperGate wiper | [microsoft.com](https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/) |
-| 22 JAN | RaidForums | Data broker "vlakayla" offering Ukrainian citizens' PII (name, phone, email) | RaidForums [not linked] |
+| 22 JAN | RaidForums | Data broker "vlakyla" offering Ukrainian citizens' PII (name, phone, email) | RaidForums [not linked] |
 | 23 JAN | RaidForums | Data broker "Mont4na" offering UkrFerry | RaidForums [not linked] |
 | 23 JAN | RaidForums | Data broker "Mont4na" offering PrivatBank | RaidForums [not linked] |
 | 24 JAN | RaidForums | Data broker "Mont4na" offering DTEK | RaidForums [not linked] |
