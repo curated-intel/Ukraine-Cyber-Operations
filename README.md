@@ -25,7 +25,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-02-25
   - Creation of the initial repository to help organisations in Ukraine
 - 2022-02-26
-  - Additional resources, chronilogically ordered (h/t Orange-CD), plus a section on vetted OSINT sources and Miscellaneous resources
+  - Additional resources, chronologically ordered (h/t Orange-CD), plus a section on vetted OSINT sources and Miscellaneous resources
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
