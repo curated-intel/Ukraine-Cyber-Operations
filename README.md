@@ -33,15 +33,13 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-02-27
   - Additional threat reports have been added
   - Creation of the table for [data broker](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#data-brokers) discussions since 2021-12-01
+  - Added [Access Broker]() section
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
 | --- | --- | --- | --- |
 | 14 JAN | SSU Ukraine | Website Defacements | [ssu.gov.ua](https://ssu.gov.ua/novyny/sbu-rozsliduie-prychetnist-rosiiskykh-spetssluzhb-do-sohodnishnoi-kiberataky-na-orhany-derzhavnoi-vlady-ukrainy)|
 | 15 JAN | Microsoft | WhisperGate wiper | [microsoft.com](https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/) |
-| 23 JAN | RaidForums | Access broker "Mont4na" offering UkrFerry | RaidForums [not linked] |
-| 23 JAN | RaidForums | Access broker "Mont4na" offering PrivatBank | RaidForums [not linked] |
-| 24 JAN | RaidForums | Access broker "Mont4na" offering DTEK | RaidForums [not linked] |
 | 31 JAN | Symantec | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine) |
 | 2 FEB | RaidForums | Access broker "GodLevel" offering Ukrainain algricultural exchange | RaidForums [not linked] |
 | 2 FEB | CERT-UA | UAC-0056 using SaintBot and OutSteel malware | [cert.gov.ua](https://cert.gov.ua/article/18419) |
@@ -85,6 +83,14 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 26 FEB | Vice Prime Minister of Ukraine | IT ARMY of Ukraine created to crowdsource offensive operations against Russian infrastructure | [twitter.com/FedorovMykhailo](https://twitter.com/FedorovMykhailo/status/1497642156076511233) |
 | 26 FEB | Yoroi | HermeticWiper | [yoroi.company](https://yoroi.company/research/diskkill-hermeticwiper-a-disruptive-cyber-weapon-targeting-ukraines-critical-infrastructures) |
 | 27 FEB | LockBit [themselves] | LockBit ransomware | LockBit .onion [not linked] | 
+| 27 FEB | ALPHV [themselves] | ALPHV ransomware | vHUMINT [closed source] |
+| 27 FEB | Mēris Botnet [themselves] | DDoS attacks | vHUMINT [closed source] |
+
+#### `Access Brokers`
+| 23 JAN | RaidForums | Access broker "Mont4na" offering UkrFerry | RaidForums [not linked] |
+| 23 JAN | RaidForums | Access broker "Mont4na" offering PrivatBank | RaidForums [not linked] |
+| 24 JAN | RaidForums | Access broker "Mont4na" offering DTEK | RaidForums [not linked] |
+| 27 FEB | KelvinSecurity | Sharing list of IP cameras in Ukraine | vHUMINT [closed source] |
 
 #### `Data Brokers`
 | Threat Actor    | Type            | Observation                                                                                               | Validated | Relevance                     | Source                                                     |
