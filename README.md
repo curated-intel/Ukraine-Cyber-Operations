@@ -41,7 +41,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 24 FEB | Symantec | HermeticWiper | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia) |
 | 24 FEB | Cisco Talos | HermeticWiper | [blog.talosintelligence.com](https://blog.talosintelligence.com/2022/02/threat-advisory-hermeticwiper.html) |
 | 24 FEB | Zscaler | HermeticWiper | [zscaler.com](https://www.zscaler.com/blogs/security-research/hermetic-wiper-resurgence-targeted-attacks-ukraine) |
-| 24 FEB | CronUp | Data broker "FreeCvilian" offering multiple .gov.ua | [twitter.com/1ZRR4H](https://twitter.com/1ZRR4H/status/1496931721052311557)|
+| 24 FEB | CronUp | Data broker "FreeCivilian" offering multiple .gov.ua | [twitter.com/1ZRR4H](https://twitter.com/1ZRR4H/status/1496931721052311557)|
 | 24 FEB | RaidForums | Data broker "Featherine" offering diia.gov.ua | RaidForums [not linked] |
 | 24 FEB | DomainTools | Unknown scammers | [twitter.com/SecuritySnacks](https://twitter.com/SecuritySnacks/status/1496956492636905473?s=20&t=KCIX_1Ughc2Fs6Du-Av0Xw) |
 | 25 FEB | @500mk500 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [twitter.com/500mk500](https://twitter.com/500mk500/status/1497339266329894920?s=20&t=opOtwpn82ztiFtwUbLkm9Q) |
