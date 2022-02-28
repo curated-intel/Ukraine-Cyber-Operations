@@ -25,14 +25,14 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-02-25
   - Creation of the initial repository to help organisations in Ukraine
   - Added [Threat Reports](https://github.com/curated-intel/Ukraine-Cyber-Operations#threat-reports) section
-  - Added [Vendor Support](https://github.com/curated-intel/Ukraine-Cyber-Operations#vendor-support) Section
+  - Added [Vendor Support](https://github.com/curated-intel/Ukraine-Cyber-Operations#vendor-support) section
 - 2022-02-26
   - Additional resources, chronologically ordered (h/t Orange-CD)
   - Added [Vetted OSINT sources](https://github.com/curated-intel/Ukraine-Cyber-Operations#vetted-osint-sources) section 
   - Added [Miscellaneous resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) section
 - 2022-02-27
   - Additional threat reports have been added
-  - Added [Data Broker](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#data-brokers) section, reflecting recent underground forum discussions
+  - Added [Data Broker](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#data-brokers) section
   - Added [Access Broker](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#access-brokers) section
 
 #### `Threat Reports`
