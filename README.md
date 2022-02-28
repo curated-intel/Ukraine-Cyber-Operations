@@ -1,24 +1,9 @@
-                                                                                
-                                                                                
-                               %%%%%#########%%%%%                              
-                        ###%%%%##                 &%%%                          
-                   (#####%%          /.. .,,,,&      .%%                        
-               //((###            . ...**//((... ,     %%                       
-           ***//((               (..***//((...*#,,,     %%                      
-       *******                  #(#./((((#......,%#(     %                      
-        *****                   @%##....#%%%%%,,%#((     %                      
-          ****//                 %%%%,,%%%%%%%**/((     #                       
-             *//((#*               %%,%%%%%##((((      %                        
-                ((####%               ,((((((/                                  
-                   #####%%#,                                         **         
-                       ##%%%#####                              //**             
-                            %%%%#########%.          ######((/                  
-                                   %%%%%#%%%%%%%%%#####                         
-                                   
-                                  by Curated Intelligence      
+![logo](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ci-logo.png)
 
 # Ukraine-Cyber-Operations
 Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. ([Blog](https://www.curatedintel.org/2021/08/welcome.html) | [Twitter](https://twitter.com/CuratedIntel) | [LinkedIn](https://www.linkedin.com/company/curatedintelligence/))
+
+![timeline](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/uacyberops.png)
 
 ### Analyst Comments:
 
@@ -34,6 +19,8 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional threat reports have been added
   - Added [Data Brokers](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#data-brokers) section
   - Added [Access Brokers](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#access-brokers) section
+- 2022-02-28
+  - Added Russian Cyber Operations Against Ukraine Timeline
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -75,6 +62,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 25 FEB | Zscaler | PartyTicket decoy ransomware | [zscaler.com](https://www.zscaler.com/blogs/security-research/technical-analysis-partyticket-ransomware) |
 | 25 FEB | INCERT GIE | Cyclops Blink, HermeticWiper | [linkedin.com](https://www.linkedin.com/posts/activity-6902989337210740736-XohK) [Login Required] |
 | 25 FEB | Proofpoint | UNC1151/Ghostwriter (Belarus MoD) | [twitter.com/threatinsight](https://twitter.com/threatinsight/status/1497355737844133895?s=20&t=Ubi0tb_XxGCbHLnUoQVp8w) |
+| 25 FEB | @fr0gger_ | HermeticWiper capabilities Overview | [twitter.com/fr0gger_](https://twitter.com/fr0gger_/status/1497121876870832128?s=20&t=_296n0bPeUgdXleX02M9mg)
 | 26 FEB | BBC Journalist | A fake Telegram account claiming to be President Zelensky is posting dubious messages | [twitter.com/shayan86](https://twitter.com/shayan86/status/1497485340738785283?s=21) |
 | 26 FEB | CERT-UA | UNC1151/Ghostwriter (Belarus MoD) | [CERT_UA Facebook](https://facebook.com/story.php?story_fbid=313517477474184&id=100064478028712) |
 | 26 FEB | MHT and TRMLabs | Unknown scammers, linked to ransomware | [twitter.com/joes_mcgill](https://twitter.com/joes_mcgill/status/1497609555856932864?s=20&t=KCIX_1Ughc2Fs6Du-Av0Xw) |
@@ -200,6 +188,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Multiple vendors | List of vendors offering their services to Ukraine for free, put together by [@chrisculling](https://twitter.com/chrisculling/status/1497023038323404803) | [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/18WYY9p1_DLwB6dnXoiiOAoWYD8X0voXtoDl_ZQzjzUQ/edit#gid=0) |
 | Mandiant | Free threat intelligence, webinar and guidance for defensive measures relevant to the situation in Ukraine. | [mandiant.com](https://www.mandiant.com/resources/insights/ukraine-crisis-resource-center) |
 | Starlink | Satellite internet constellation operated by SpaceX providing satellite Internet access coverage to Ukraine | [twitter.com/elonmus](https://twitter.com/elonmusk/status/1497701484003213317) |
+| Romania's DNSC & Bitdefender | Romania’s DNSC – in partnership with Bitdefender – will provide technical consulting, threat intelligence and, free of charge, cybersecurity technology to any business, government institution or private citizen of Ukraine for as long as it is necessary. | [Romania's DNSC Press Release](https://dnsc.ro/citeste/press-release-dnsc-and-bitdefender-work-together-in-support-of-ukraine)|
 
 #### `Vetted OSINT Sources`
 | Handle | Affiliation |
