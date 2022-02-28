@@ -85,7 +85,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 27 FEB | LockBit [themselves] | LockBit ransomware | LockBit .onion [not linked] | 
 | 27 FEB | ALPHV [themselves] | ALPHV ransomware | vHUMINT [closed source] |
 | 27 FEB | Mēris Botnet [themselves] | DDoS attacks | vHUMINT [closed source] |
-
+| 28 FEB | Horizon News [themselves] | Leak of Ukraine's Censorship Order | [TechARP](https://www-techarp-com.cdn.ampproject.org/c/s/www.techarp.com/internet/chinese-media-leaks-ukraine-censor/?amp=1)|
 #### `Access Brokers`
 | Date | Source | Threat(s) | Source |
 | --- | --- | --- | --- |
