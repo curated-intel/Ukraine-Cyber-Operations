@@ -19,6 +19,8 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional threat reports have been added
   - Added [Data Brokers](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#data-brokers) section
   - Added [Access Brokers](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#access-brokers) section
+- 2022-02-28
+  - Added Russian Cyber Operations Against Ukraine Timeline
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
