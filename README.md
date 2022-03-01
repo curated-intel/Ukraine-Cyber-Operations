@@ -85,7 +85,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 23 JAN | Access broker "Mont4na" offering UkrFerry | RaidForums [not linked] |
 | 23 JAN | Access broker "Mont4na" offering PrivatBank | RaidForums [not linked] |
 | 24 JAN | Access broker "Mont4na" offering DTEK | RaidForums [not linked] |
