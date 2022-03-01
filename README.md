@@ -81,7 +81,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 28 FEB | @heymingwei | Potential BGP hijacks attempts against Ukrainian Internet Names Center | [https://twitter.com/heymingwei](https://twitter.com/heymingwei/status/1498362715198263300?s=20&t=Ju31gTurYc8Aq_yZMbvbxg) |
 | 28 FEB | @cyberknow20 | Stormous ransomware targets Ukraine Ministry of Foreign Affairs | [twitter.com/cyberknow20](https://twitter.com/cyberknow20/status/1498434090206314498?s=21) | 
 | 1 MAR | ESET | IsaacWiper and HermeticWizard | [welivesecurity.com](https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/) |
-
+| 1 MAR | Proofpoint | Ukrainian armed service member's email compromised and sent malspam containing the SunSeed malware (likely TA445/UNC1151/Ghostwriter) | [proofpoint.com](https://www.proofpoint.com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
