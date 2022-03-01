@@ -75,6 +75,10 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 27 FEB | ALPHV [themselves] | ALPHV ransomware | vHUMINT [closed source] |
 | 27 FEB | Mēris Botnet [themselves] | DDoS attacks | vHUMINT [closed source] |
 | 28 FEB | Horizon News [themselves] | Leak of China's Censorship Order about Ukraine | [TechARP](https://www-techarp-com.cdn.ampproject.org/c/s/www.techarp.com/internet/chinese-media-leaks-ukraine-censor/?amp=1)|
+| 28 FEB | Microsoft | FoxBlade malware | Microsoft [https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/?preview_id=65075] |
+| 28 FEB | @heymingwei | Potential BGP hijacks attempts against Ukrainian Internet Names Center [https://twitter.com/heymingwei/status/1498362715198263300?s=20&t=Ju31gTurYc8Aq_yZMbvbxg] |
+
+
 #### `Access Brokers`
 | Date | Source | Threat(s) | Source |
 | --- | --- | --- | --- |
