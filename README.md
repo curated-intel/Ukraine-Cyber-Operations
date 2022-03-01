@@ -84,12 +84,13 @@ Curated Intelligence is working with analysts from around the world to provide u
 
 
 #### `Access Brokers`
-| Date | Source | Threat(s) | Source |
+| Date | Threat(s) | Source |
 | --- | --- | --- | --- |
-| 23 JAN | RaidForums | Access broker "Mont4na" offering UkrFerry | RaidForums [not linked] |
-| 23 JAN | RaidForums | Access broker "Mont4na" offering PrivatBank | RaidForums [not linked] |
-| 24 JAN | RaidForums | Access broker "Mont4na" offering DTEK | RaidForums [not linked] |
-| 27 FEB | KelvinSecurity | Sharing list of IP cameras in Ukraine | vHUMINT [closed source] |
+| 23 JAN | Access broker "Mont4na" offering UkrFerry | RaidForums [not linked] |
+| 23 JAN | Access broker "Mont4na" offering PrivatBank | RaidForums [not linked] |
+| 24 JAN | Access broker "Mont4na" offering DTEK | RaidForums [not linked] |
+| 27 FEB | KelvinSecurity Sharing list of IP cameras in Ukraine | vHUMINT [closed source] |
+| 28 FEB | "w1nte4mute" looking to buy access to UA and NATO countries (likely ransomware affiliate) | vHUMINT [closed source] |
 
 #### `Data Brokers`
 | Threat Actor    | Type            | Observation                                                                                               | Validated | Relevance                     | Source                                                     |
