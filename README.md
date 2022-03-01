@@ -210,3 +210,4 @@ Curated Intelligence is working with analysts from around the world to provide u
 | PowerOutages.com | https://poweroutage.com/ua | Tracking PowerOutages across Ukraine |
 | Monash IP Observatory | https://twitter.com/IP_Observatory | Tracking IP address outages across Ukraine |
 | Project Owl Discord | https://discord.com/invite/projectowl | Tracking foreign policy, geopolitical events, military and governments, using a Discord-based crowdsourced approach, with a current emphasis on Ukraine and Russia |
+| russianwarchatter.info | https://www.russianwarchatter.info/ | Known Russian Military Radio Frequencies |
