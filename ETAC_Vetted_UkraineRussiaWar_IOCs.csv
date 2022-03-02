@@ -2008,3 +2008,34 @@ Domain,who-int.info,Gamaredon / PrimitiveBear,hxxps://github[.]com/pan-unit42/io
 Domain,xiphosura.online,Gamaredon / PrimitiveBear,hxxps://github[.]com/pan-unit42/iocs/blob/master/Gamaredon/2022_02_Gamaredon_UPDATE.txt,
 Domain,votifa.ru,Gamaredon / PrimitiveBear,hxxps://github[.]com/pan-unit42/iocs/blob/master/Gamaredon/2022_02_Gamaredon_UPDATE.txt,
 Domain,normandia.fun,Gamaredon / PrimitiveBear,hxxps://github[.]com/pan-unit42/iocs/blob/master/Gamaredon/2022_02_Gamaredon_UPDATE.txt,
+SHA1,23873bf2670cf64c2440058130548d4e4da412dd,Win32/RiskWare.RemoteAdmin.RemoteExec.AC,hxxps://www[.]welivesecurity[.]com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
+SHA1,3c54c9a49a8ddca02189fe15fea52fe24f41a86f,Win32/GenCBL.BSP,hxxps://www[.]welivesecurity[.]com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
+SHA1,61b25d11392172e587d8da3045812a66c3385451,Win32/KillDisk.NCV,hxxps://www[.]welivesecurity[.]com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
+SHA1,736a4cfad1ed83a6a0b75b0474d5e01a3a36f950,Win32/KillMBR.NHQ,hxxps://www[.]welivesecurity[.]com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
+SHA1,912342f1c840a42f6b74132f8a7c4ffe7d40fb77,Win32/KillDisk.NCV,hxxps://www[.]welivesecurity[.]com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
+SHA1,ad602039c6f0237d4a997d5640e92ce5e2b3bba3,Win32/KillMBR.NHP,hxxps://www[.]welivesecurity[.]com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
+SHA1,e9b96e9b86fad28d950ca428879168e0894d854f,Win32/KillMBR.NHP,hxxps://www[.]welivesecurity[.]com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
+SHA1,f32d791ec9e6385a91b45942c230f52aff1626df,WinGo/Filecoder.BK,hxxps://www[.]welivesecurity[.]com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
+SHA256,1561ece482c78a2d587b66c8eaf211e806ff438e506fcef8f14ae367db82d9b3,XLS email attachment,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,15fd138a169cae80fecf4c797b33a257d587ed446f02ecf3ef913e307a22f96d,Malicious LUA script,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,20180a8012970453daef6db45b2978fd962d2168fb3b2b1580da3af6465fe2f6,Malicious LUA script,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,269526c11dbb25b1b4b13eec4e7577e15de33ca18afa70a2be5f373b771bd1ab,Malicious LUA script,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,2e1de7b61ed25579e796ec4c0df2e25d2b98a1f8d4fdb077e2b52ee06c768fca,Malicious MSI package,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,303e004364b1beda0338eb10a845e6b0965ca9fa8ee16fa9f3a3c6ef03c6939f,Malicious LUA script,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,31d765deae26fb5cb506635754c700c57f9bd0fc643a622dc0911c42bf93d18f,Malicious MSI package,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,343afa62f69c7c140fbbf02b4ba2f7b2f711b6201bb6671c67a3744394084269,Malicious LUA script,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,3694f63e5093183972ed46c6bef5c63e0548f743a8fa6bb6983dcf107cab9044,Malicious DLL file,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,5b317f27ad1e2c641f85bef601740b65e93f28df06ed03daa1f98d0aa5e69cf0,Malicious DLL file,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,737f08702f00e78dbe78acbeda63b73d04c1f8e741c5282a9aa1409369b6efa8,Malicious LUA script,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,7bf33b494c70bd0a0a865b5fbcee0c58fa9274b8741b03695b45998bcd459328,Malicious LUA script,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,976b7b17f2663fee38d4c4b1c251269f862785b17343f34479732bf9ddd29657,Malicious DLL file,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,9aa3ca96a84eb5606694adb58776c9e926020ef184828b6f7e6f9b50498f7071,Malicious DLL file,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,a8fd0a5de66fa39056c0ddf2ec74ccd38b2ede147afa602aba00a3f0b55a88e0,XLS email attachment,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,b1864aed85c114354b04fbe9b3f41c5ebc4df6d129e08ef65a0c413d0daabd29,Malicious LUA script,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,d10fbef2fe8aa983fc6950772c6bec4dc4f909f24ab64732c14b3e5f3318700c,Malicious LUA script,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,e9167e0da842a0b856cbe6a2cf576f2d11bcedb5985e8e4c8c71a73486f6fa5a,Malicious LUA script,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,f97f26f9cb210c0fcf2b50b7b9c8c93192b420cdbd946226ec2848fd19a9af2c,Malicious DLL file,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+SHA256,fbbe7ee073d0290ac13c98b92a8405ea04dcc6837b4144889885dd70679e933f,Malicious DLL file,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+IPv4,157.230.104.79,Stager server,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+IPv4,45.61.137.231,C2 server,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
+IPv4,84.32.188.96,C2 server,hxxps://www[.]proofpoint[.]com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails
