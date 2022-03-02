@@ -36,7 +36,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Date | Source | Threat(s) | URL |
 | --- | --- | --- | --- |
 | 14 JAN | SSU Ukraine | Website Defacements | [ssu.gov.ua](https://ssu.gov.ua/novyny/sbu-rozsliduie-prychetnist-rosiiskykh-spetssluzhb-do-sohodnishnoi-kiberataky-na-orhany-derzhavnoi-vlady-ukrainy)|
-| 15 JAN | Microsoft | WhisperGate wiper | [microsoft.com](https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/) |
+| 15 JAN | Microsoft | WhisperGate wiper (DEV-0586) | [microsoft.com](https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/) |
 | 31 JAN | Symantec | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine) |
 | 2 FEB | RaidForums | Access broker "GodLevel" offering Ukrainain algricultural exchange | RaidForums [not linked] |
 | 2 FEB | CERT-UA | UAC-0056 using SaintBot and OutSteel malware | [cert.gov.ua](https://cert.gov.ua/article/18419) |
@@ -89,6 +89,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 28 FEB | @cyberknow20 | Stormous ransomware targets Ukraine Ministry of Foreign Affairs | [twitter.com/cyberknow20](https://twitter.com/cyberknow20/status/1498434090206314498?s=21) | 
 | 1 MAR | ESET | IsaacWiper and HermeticWizard | [welivesecurity.com](https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/) |
 | 1 MAR | Proofpoint | Ukrainian armed service member's email compromised and sent malspam containing the SunSeed malware (likely TA445/UNC1151/Ghostwriter) | [proofpoint.com](https://www.proofpoint.com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails) |
+| 1 MAR | Elastic | HermeticWiper | [elastic.github.io](https://elastic.github.io/security-research/intelligence/2022/03/01.hermeticwiper-targets-ukraine/article/) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
