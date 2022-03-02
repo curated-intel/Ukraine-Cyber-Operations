@@ -30,6 +30,7 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Added [IOC Threat Hunt Feeds](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered) by KPMG-Egyde CTI (h/t [0xDISREL](https://twitter.com/0xDISREL))
     - IOCs shared by these feeds are `LOW-TO-MEDIUM CONFIDENCE` we strongly recommend NOT adding them to a blocklist
     - These could potentially be used for `THREAT HUNTING` and could be added to a `WATCHLIST`
+    - IOCs are generated in `MISP COMPATIBLE` CSV format
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
