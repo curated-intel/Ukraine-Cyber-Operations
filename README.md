@@ -26,7 +26,7 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional threat reports and resources have been added
 - 2022-03-02
   - Additional [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_Vetted_UkraineRussiaWar_IOCs.csv#L2011) have been added
-  - Added [YARA rule collection](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/yara) from the Threat Reports 
+  - Added [YARA rule collection](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/yara) from the Threat Reports by ETAC
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
