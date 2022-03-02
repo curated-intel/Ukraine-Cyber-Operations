@@ -27,7 +27,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-03-02
   - Additional [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_Vetted_UkraineRussiaWar_IOCs.csv#L2011) have been added
   - Added vetted [YARA rule collection](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/yara) from the Threat Reports by ETAC
-  - Added 'Medium Confidence' [IOC Threat Hunt Feeds](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered) by KPMG-Egyde CTI
+  - Added [IOC Threat Hunt Feeds](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered) by KPMG-Egyde CTI
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
