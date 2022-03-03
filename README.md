@@ -35,6 +35,7 @@ Curated Intelligence is working with analysts from around the world to provide u
     - IOCs are generated in `MISP COMPATIBLE` CSV format
 - 2022-03-03
   - Additional threat reports and vendor support resources have been added
+  - Updated [Log4Shell IOC Threat Hunting Feeds](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/KPMG_Log4Shell_Feeds); not directly related to Ukraine, but Log4j2 vulnerabilities are still new.
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
