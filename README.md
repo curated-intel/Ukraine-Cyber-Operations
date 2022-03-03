@@ -27,27 +27,32 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-03-02
   - Additional [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_Vetted_UkraineRussiaWar_IOCs.csv#L2011) have been added
   - Added vetted [YARA rule collection](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/yara) from the Threat Reports by ETAC
-  - Added 'Medium Confidence' [IOC Threat Hunt Feeds](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered) by KPMG-Egyde CTI
+  - Added loosely-vetted [IOC Threat Hunt Feeds](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered) by KPMG-Egyde CTI (h/t [0xDISREL](https://twitter.com/0xDISREL))
+    - IOCs shared by these feeds are `LOW-TO-MEDIUM CONFIDENCE` we strongly recommend NOT adding them to a blocklist
+    - These could potentially be used for `THREAT HUNTING` and could be added to a `WATCHLIST`
+    - IOCs are generated in `MISP COMPATIBLE` CSV format
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
 | --- | --- | --- | --- |
 | 14 JAN | SSU Ukraine | Website Defacements | [ssu.gov.ua](https://ssu.gov.ua/novyny/sbu-rozsliduie-prychetnist-rosiiskykh-spetssluzhb-do-sohodnishnoi-kiberataky-na-orhany-derzhavnoi-vlady-ukrainy)|
-| 15 JAN | Microsoft | WhisperGate wiper | [microsoft.com](https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/) |
+| 15 JAN | Microsoft | WhisperGate wiper (DEV-0586) | [microsoft.com](https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/) |
+| 19 JAN | Elastic | WhisperGate wiper (Operation BleedingBear) | [elastic.github.io](https://elastic.github.io/security-research/malware/2022/01/01.operation-bleeding-bear/article/) |
 | 31 JAN | Symantec | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine) |
 | 2 FEB | RaidForums | Access broker "GodLevel" offering Ukrainain algricultural exchange | RaidForums [not linked] |
 | 2 FEB | CERT-UA | UAC-0056 using SaintBot and OutSteel malware | [cert.gov.ua](https://cert.gov.ua/article/18419) |
 | 3 FEB | PAN Unit42 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/gamaredon-primitive-bear-ukraine-update-2021/) |
 | 4 FEB | Microsoft | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [microsoft.com](https://www.microsoft.com/security/blog/2022/02/04/actinium-targets-ukrainian-organizations/) |
-| 8 FEB | NSFOCUS | Lorec53 | [nsfocusglobal.com](https://nsfocusglobal.com/apt-retrospection-lorec53-an-active-russian-hack-group-launched-phishing-attacks-against-georgian-government) |
+| 8 FEB | NSFOCUS | Lorec53 (aka UAC-0056, EmberBear, BleedingBear) | [nsfocusglobal.com](https://nsfocusglobal.com/apt-retrospection-lorec53-an-active-russian-hack-group-launched-phishing-attacks-against-georgian-government) |
 | 15 FEB | CERT-UA | DDoS attacks against the name server of government websites as well as Oschadbank (State Savings Bank) & Privatbank (largest commercial bank). False SMS and e-mails to create panic | [cert.gov.ua](https://cert.gov.ua/article/37139) |
 | 23 FEB | The Daily Beast | Ukrainian troops receive threatening SMS messages | [thedailybeast.com](https://www.thedailybeast.com/cyberattacks-hit-websites-and-psy-ops-sms-messages-targeting-ukrainians-ramp-up-as-russia-moves-into-ukraine) |
 | 23 FEB | UK NCSC | Sandworm/VoodooBear (GRU) | [ncsc.gov.uk](https://www.ncsc.gov.uk/files/Joint-Sandworm-Advisory.pdf) |
 | 23 FEB | SentinelLabs | HermeticWiper | [sentinelone.com]( https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/ ) |
 | 24 FEB | ESET | HermeticWiper | [welivesecurity.com](https://www.welivesecurity.com/2022/02/24/hermeticwiper-new-data-wiping-malware-hits-ukraine/) |
-| 24 FEB | Symantec | HermeticWiper | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia) |
+| 24 FEB | Symantec | HermeticWiper, PartyTicket ransomware, CVE-2021-1636, unknown webshell | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia) |
 | 24 FEB | Cisco Talos | HermeticWiper | [blog.talosintelligence.com](https://blog.talosintelligence.com/2022/02/threat-advisory-hermeticwiper.html) |
 | 24 FEB | Zscaler | HermeticWiper | [zscaler.com](https://www.zscaler.com/blogs/security-research/hermetic-wiper-resurgence-targeted-attacks-ukraine) |
+| 24 FEB | Cluster25 | HermeticWiper | [cluster25.io](https://cluster25.io/2022/02/24/ukraine-analysis-of-the-new-disk-wiping-malware/) |
 | 24 FEB | CronUp | Data broker "FreeCivilian" offering multiple .gov.ua | [twitter.com/1ZRR4H](https://twitter.com/1ZRR4H/status/1496931721052311557)|
 | 24 FEB | RaidForums | Data broker "Featherine" offering diia.gov.ua | RaidForums [not linked] |
 | 24 FEB | DomainTools | Unknown scammers | [twitter.com/SecuritySnacks](https://twitter.com/SecuritySnacks/status/1496956492636905473?s=20&t=KCIX_1Ughc2Fs6Du-Av0Xw) |
@@ -81,11 +86,16 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 27 FEB | ALPHV [themselves] | ALPHV ransomware | vHUMINT [closed source] |
 | 27 FEB | Mēris Botnet [themselves] | DDoS attacks | vHUMINT [closed source] |
 | 28 FEB | Horizon News [themselves] | Leak of China's Censorship Order about Ukraine | [TechARP](https://www-techarp-com.cdn.ampproject.org/c/s/www.techarp.com/internet/chinese-media-leaks-ukraine-censor/?amp=1)|
-| 28 FEB | Microsoft | FoxBlade malware | [Microsoft](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/?preview_id=65075) |
+| 28 FEB | Microsoft | FoxBlade (aka HermeticWiper) | [Microsoft](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/?preview_id=65075) |
 | 28 FEB | @heymingwei | Potential BGP hijacks attempts against Ukrainian Internet Names Center | [https://twitter.com/heymingwei](https://twitter.com/heymingwei/status/1498362715198263300?s=20&t=Ju31gTurYc8Aq_yZMbvbxg) |
 | 28 FEB | @cyberknow20 | Stormous ransomware targets Ukraine Ministry of Foreign Affairs | [twitter.com/cyberknow20](https://twitter.com/cyberknow20/status/1498434090206314498?s=21) | 
 | 1 MAR | ESET | IsaacWiper and HermeticWizard | [welivesecurity.com](https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/) |
 | 1 MAR | Proofpoint | Ukrainian armed service member's email compromised and sent malspam containing the SunSeed malware (likely TA445/UNC1151/Ghostwriter) | [proofpoint.com](https://www.proofpoint.com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails) |
+| 1 MAR | Elastic | HermeticWiper | [elastic.github.io](https://elastic.github.io/security-research/intelligence/2022/03/01.hermeticwiper-targets-ukraine/article/) |
+| 1 MAR | CrowdStrike | PartyTicket (aka HermeticRansom), DriveSlayer (aka HermeticWiper) | [CrowdStrike](https://www.crowdstrike.com/blog/how-to-decrypt-the-partyticket-ransomware-targeting-ukraine/) |
+| 3 MAR | @ShadowChasing1 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [twitter.com/ShadowChasing1](https://twitter.com/ShadowChasing1/status/1499361093059153921) |
+| 3 MAR | @vxunderground | News website in Poland was reportedly compromised and the threat actor uploaded anti-Ukrainian propaganda | [twitter.com/vxunderground](https://twitter.com/vxunderground/status/1499374914758918151?s=20&t=jyy9Hnpzy-5P1gcx19bvIA) |
+| 3 MAR | @kylaintheburgh | Russian botnet on Twitter is pushing "#istandwithputin" and "#istandwithrussia" propaganda (in English) | [twitter.com/kylaintheburgh](https://twitter.com/kylaintheburgh/status/1499350578371067906?s=21) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
@@ -201,9 +211,11 @@ Curated Intelligence is working with analysts from around the world to provide u
 | FSecure | F-Secure FREEDOME VPN is now available for free in all of Ukraine | [twitter.com/FSecure](https://twitter.com/FSecure/status/1497248407303462960) |
 | Multiple vendors | List of vendors offering their services to Ukraine for free, put together by [@chrisculling](https://twitter.com/chrisculling/status/1497023038323404803) | [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/18WYY9p1_DLwB6dnXoiiOAoWYD8X0voXtoDl_ZQzjzUQ/edit#gid=0) |
 | Mandiant | Free threat intelligence, webinar and guidance for defensive measures relevant to the situation in Ukraine. | [mandiant.com](https://www.mandiant.com/resources/insights/ukraine-crisis-resource-center) |
-| Starlink | Satellite internet constellation operated by SpaceX providing satellite Internet access coverage to Ukraine | [twitter.com/elonmus](https://twitter.com/elonmusk/status/1497701484003213317) |
+| Starlink | Satellite internet constellation operated by SpaceX providing satellite Internet access coverage to Ukraine | [twitter.com/elonmusk](https://twitter.com/elonmusk/status/1497701484003213317) |
 | Romania DNSC | Romania’s DNSC – in partnership with Bitdefender – will provide technical consulting, threat intelligence and, free of charge, cybersecurity technology to any business, government institution or private citizen of Ukraine for as long as it is necessary. | [Romania's DNSC Press Release](https://dnsc.ro/citeste/press-release-dnsc-and-bitdefender-work-together-in-support-of-ukraine)|
 | BitDefender | Access to Bitdefender technical consulting, threat intelligence and both consumer and enterprise cybersecurity technology | [bitdefender.com/ukraine/](https://www.bitdefender.com/ukraine/) |
+| NameCheap | Free anonymous hosting and domain name registration to any anti-Putin anti-regime and protest websites for anyone located within Russia and Belarus | [twitter.com/Namecheap](https://twitter.com/Namecheap/status/1498998414020861953) |
+| Avast | Free decryptor for PartyTicket ransomware | [decoded.avast.io](https://decoded.avast.io/threatresearch/help-for-ukraine-free-decryptor-for-hermeticransom-ransomware/) | 
 
 #### `Vetted OSINT Sources`
 | Handle | Affiliation |
