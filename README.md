@@ -49,7 +49,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 23 FEB | UK NCSC | Sandworm/VoodooBear (GRU) | [ncsc.gov.uk](https://www.ncsc.gov.uk/files/Joint-Sandworm-Advisory.pdf) |
 | 23 FEB | SentinelLabs | HermeticWiper | [sentinelone.com]( https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/ ) |
 | 24 FEB | ESET | HermeticWiper | [welivesecurity.com](https://www.welivesecurity.com/2022/02/24/hermeticwiper-new-data-wiping-malware-hits-ukraine/) |
-| 24 FEB | Symantec | HermeticWiper, PartyTrick ransomware, CVE-2021-1636, unknown webshell | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia) |
+| 24 FEB | Symantec | HermeticWiper, PartyTicket ransomware, CVE-2021-1636, unknown webshell | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia) |
 | 24 FEB | Cisco Talos | HermeticWiper | [blog.talosintelligence.com](https://blog.talosintelligence.com/2022/02/threat-advisory-hermeticwiper.html) |
 | 24 FEB | Zscaler | HermeticWiper | [zscaler.com](https://www.zscaler.com/blogs/security-research/hermetic-wiper-resurgence-targeted-attacks-ukraine) |
 | 24 FEB | Cluster25 | HermeticWiper | [cluster25.io](https://cluster25.io/2022/02/24/ukraine-analysis-of-the-new-disk-wiping-malware/) |
@@ -92,6 +92,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 1 MAR | ESET | IsaacWiper and HermeticWizard | [welivesecurity.com](https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/) |
 | 1 MAR | Proofpoint | Ukrainian armed service member's email compromised and sent malspam containing the SunSeed malware (likely TA445/UNC1151/Ghostwriter) | [proofpoint.com](https://www.proofpoint.com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails) |
 | 1 MAR | Elastic | HermeticWiper | [elastic.github.io](https://elastic.github.io/security-research/intelligence/2022/03/01.hermeticwiper-targets-ukraine/article/) |
+| 1 MAR | CrowdStrike | PartyTicket (aka HermeticRansom), DriveSlayer (aka HermeticWiper) | [CrowdStrike](https://www.crowdstrike.com/blog/how-to-decrypt-the-partyticket-ransomware-targeting-ukraine/) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
@@ -211,6 +212,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Romania DNSC | Romania’s DNSC – in partnership with Bitdefender – will provide technical consulting, threat intelligence and, free of charge, cybersecurity technology to any business, government institution or private citizen of Ukraine for as long as it is necessary. | [Romania's DNSC Press Release](https://dnsc.ro/citeste/press-release-dnsc-and-bitdefender-work-together-in-support-of-ukraine)|
 | BitDefender | Access to Bitdefender technical consulting, threat intelligence and both consumer and enterprise cybersecurity technology | [bitdefender.com/ukraine/](https://www.bitdefender.com/ukraine/) |
 | NameCheap | Free anonymous hosting and domain name registration to any anti-Putin anti-regime and protest websites for anyone located within Russia and Belarus | [twitter.com/Namecheap](https://twitter.com/Namecheap/status/1498998414020861953) |
+| Avast | Free decryptor for PartyTicket ransomware | [decoded.avast.io](https://decoded.avast.io/threatresearch/help-for-ukraine-free-decryptor-for-hermeticransom-ransomware/) | 
 
 #### `Vetted OSINT Sources`
 | Handle | Affiliation |
