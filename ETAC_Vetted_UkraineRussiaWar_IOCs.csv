@@ -2043,5 +2043,5 @@ SHA256,7ea65c1cb2687be42f427571e3223e425d602d043c39f690d0c3c42309aff513,DanaBot 
 IPv4,192.236.161.4,DanaBot C2 server,hxxps://www[.]zscaler[.]com/blogs/security-research/danabot-launches-ddos-attack-against-ukrainian-ministry-defense,
 IPv4,23.106.122.14,DanaBot C2 server,hxxps://www[.]zscaler[.]com/blogs/security-research/danabot-launches-ddos-attack-against-ukrainian-ministry-defense,
 IPv4,5.9.224.217,DanaBot C2 server,hxxps://www[.]zscaler[.]com/blogs/security-research/danabot-launches-ddos-attack-against-ukrainian-ministry-defense,
-Domain,ockiwumgv77jgrppj4na362q4z6flsm3uno5td423jj4lj2f2meqt6ad.onion,hxxps://www[.]zscaler[.]com/blogs/security-research/danabot-launches-ddos-attack-against-ukrainian-ministry-defense,
+Domain,ockiwumgv77jgrppj4na362q4z6flsm3uno5td423jj4lj2f2meqt6ad.onion,DanaBot C2 server,hxxps://www[.]zscaler[.]com/blogs/security-research/danabot-launches-ddos-attack-against-ukrainian-ministry-defense,
 SHA256,b61cd7dc3af4b5b56412d62f37985e8a4e23c64b1908e39510bc8e264ebad700,DDoS tool,hxxps://www[.]zscaler[.]com/blogs/security-research/danabot-launches-ddos-attack-against-ukrainian-ministry-defense,
