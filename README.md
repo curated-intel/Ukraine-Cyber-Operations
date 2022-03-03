@@ -31,6 +31,8 @@ Curated Intelligence is working with analysts from around the world to provide u
     - IOCs shared by these feeds are `LOW-TO-MEDIUM CONFIDENCE` we strongly recommend NOT adding them to a blocklist
     - These could potentially be used for `THREAT HUNTING` and could be added to a `WATCHLIST`
     - IOCs are generated in `MISP COMPATIBLE` CSV format
+- 2022-03-03
+  - Additional threat reports and vendor support resources have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
