@@ -5,6 +5,8 @@ Curated Intelligence is working with analysts from around the world to provide u
 
 ![timeline](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/uacyberopsv2.png)
 
+![cyberwar](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Russia-Ukraine%20Cyberwar.png)
+
 ### Analyst Comments:
 
 - 2022-02-25
@@ -31,6 +33,11 @@ Curated Intelligence is working with analysts from around the world to provide u
     - IOCs shared by these feeds are `LOW-TO-MEDIUM CONFIDENCE` we strongly recommend NOT adding them to a blocklist
     - These could potentially be used for `THREAT HUNTING` and could be added to a `WATCHLIST`
     - IOCs are generated in `MISP COMPATIBLE` CSV format
+- 2022-03-03
+  - Additional threat reports and vendor support resources have been added
+  - Updated [Log4Shell IOC Threat Hunt Feeds](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/KPMG_Log4Shell_Feeds) by KPMG-Egyde CTI; not directly related to Ukraine, but still a widespread vulnerability.
+  - Added diagram of Russia-Ukraine Cyberwar Participants 2022 by ETAC
+  - Additional [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_Vetted_UkraineRussiaWar_IOCs.csv#L2042) have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -93,9 +100,11 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 1 MAR | Proofpoint | Ukrainian armed service member's email compromised and sent malspam containing the SunSeed malware (likely TA445/UNC1151/Ghostwriter) | [proofpoint.com](https://www.proofpoint.com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails) |
 | 1 MAR | Elastic | HermeticWiper | [elastic.github.io](https://elastic.github.io/security-research/intelligence/2022/03/01.hermeticwiper-targets-ukraine/article/) |
 | 1 MAR | CrowdStrike | PartyTicket (aka HermeticRansom), DriveSlayer (aka HermeticWiper) | [CrowdStrike](https://www.crowdstrike.com/blog/how-to-decrypt-the-partyticket-ransomware-targeting-ukraine/) |
+| 2 MAR | Zscaler | DanaBot operators launch DDoS attacks against the Ukrainian Ministry of Defense | [zscaler.com](https://www.zscaler.com/blogs/security-research/danabot-launches-ddos-attack-against-ukrainian-ministry-defense) |
 | 3 MAR | @ShadowChasing1 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [twitter.com/ShadowChasing1](https://twitter.com/ShadowChasing1/status/1499361093059153921) |
 | 3 MAR | @vxunderground | News website in Poland was reportedly compromised and the threat actor uploaded anti-Ukrainian propaganda | [twitter.com/vxunderground](https://twitter.com/vxunderground/status/1499374914758918151?s=20&t=jyy9Hnpzy-5P1gcx19bvIA) |
 | 3 MAR | @kylaintheburgh | Russian botnet on Twitter is pushing "#istandwithputin" and "#istandwithrussia" propaganda (in English) | [twitter.com/kylaintheburgh](https://twitter.com/kylaintheburgh/status/1499350578371067906?s=21) |
+| 3 MAR | @tracerspiff | UNC1151/Ghostwriter (Belarus MoD) | [twitter.com](https://twitter.com/tracerspiff/status/1499444876810854408?s=21) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
