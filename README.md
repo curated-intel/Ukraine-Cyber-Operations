@@ -38,6 +38,8 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Updated [Log4Shell IOC Threat Hunt Feeds](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/KPMG_Log4Shell_Feeds) by KPMG-Egyde CTI; not directly related to Ukraine, but still a widespread vulnerability.
   - Added diagram of Russia-Ukraine Cyberwar Participants 2022 by ETAC
   - Additional [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_Vetted_UkraineRussiaWar_IOCs.csv#L2042) have been added
+- 2022-03-04
+  - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_LowConfidence_Unfiltered/Ukraine-Crisis_DomainTools_ThreatHunt_Feed.csv) for recently registered Ukrainian domain names (h/t DomainTools)
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
