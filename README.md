@@ -40,6 +40,7 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_Vetted_UkraineRussiaWar_IOCs.csv#L2042) have been added
 - 2022-03-04
   - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_LowConfidence_Unfiltered/Ukraine-Crisis_DomainTools_ThreatHunt_Feed.csv) for recently registered Ukrainian domain names (h/t DomainTools)
+  - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered/Ukraine-Crisis_RecordedFuture_ThreatHunt_Feed.csv) for threat groups targeting Ukraine (h/t RecordedFuture)
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -112,6 +113,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 3 MAR | Trustwave | Gorenie Fundraising Email Scams | [trustwave.com](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/dark-web-insights-evolving-cyber-tactics-aim-to-impact-the-russia-ukraine-conflict/) 
 | 3 MAR | Trend Micro | Prominent Cyber Attacks in Russia-Ukraine Conflict | [Trend Micro](https://www.trendmicro.com/en_us/research/22/c/cyberattacks-are-prominent-in-the-russia-ukraine-conflict.html) |
 | 4 MAR | Interfax | CERT-UA warns about mass mailings of malicious software | [Interfax](https://en.interfax.com.ua/news/general/807175.html) |
+| 5 MAR | SSSCIP Ukraine |  Russian DDos attacks (100 Gbps at their peak)  primarily aimed at the resources of Verkhovna Rada, Cabinet of Ministers, President of Ukraine, Defense Ministry and Internal Affairs Ministry | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1500090448735621128) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
