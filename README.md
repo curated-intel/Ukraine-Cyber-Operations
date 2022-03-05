@@ -84,6 +84,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 25 FEB | INCERT GIE | Cyclops Blink, HermeticWiper | [linkedin.com](https://www.linkedin.com/posts/activity-6902989337210740736-XohK) [Login Required] |
 | 25 FEB | Proofpoint | UNC1151/Ghostwriter (Belarus MoD) | [twitter.com/threatinsight](https://twitter.com/threatinsight/status/1497355737844133895?s=20&t=Ubi0tb_XxGCbHLnUoQVp8w) |
 | 25 FEB | @fr0gger_ | HermeticWiper capabilities Overview | [twitter.com/fr0gger_](https://twitter.com/fr0gger_/status/1497121876870832128?s=20&t=_296n0bPeUgdXleX02M9mg)
+| 25 FEB | Netskope | HermeticWiper analysis | [netskope.com](https://www.netskope.com/pt/blog/netskope-threat-coverage-hermeticwiper) |
 | 26 FEB | BBC Journalist | A fake Telegram account claiming to be President Zelensky is posting dubious messages | [twitter.com/shayan86](https://twitter.com/shayan86/status/1497485340738785283?s=21) |
 | 26 FEB | CERT-UA | UNC1151/Ghostwriter (Belarus MoD) | [CERT_UA Facebook](https://facebook.com/story.php?story_fbid=313517477474184&id=100064478028712) |
 | 26 FEB | MHT and TRMLabs | Unknown scammers, linked to ransomware | [twitter.com/joes_mcgill](https://twitter.com/joes_mcgill/status/1497609555856932864?s=20&t=KCIX_1Ughc2Fs6Du-Av0Xw) |
@@ -103,10 +104,14 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 1 MAR | Elastic | HermeticWiper | [elastic.github.io](https://elastic.github.io/security-research/intelligence/2022/03/01.hermeticwiper-targets-ukraine/article/) |
 | 1 MAR | CrowdStrike | PartyTicket (aka HermeticRansom), DriveSlayer (aka HermeticWiper) | [CrowdStrike](https://www.crowdstrike.com/blog/how-to-decrypt-the-partyticket-ransomware-targeting-ukraine/) |
 | 2 MAR | Zscaler | DanaBot operators launch DDoS attacks against the Ukrainian Ministry of Defense | [zscaler.com](https://www.zscaler.com/blogs/security-research/danabot-launches-ddos-attack-against-ukrainian-ministry-defense) |
+| 2 MAR | Infoblox | Ukrainian Support Fraud | [blogs.infoblox.com](https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/cyber-threat-advisory-ukrainian-support-fraud/) |
 | 3 MAR | @ShadowChasing1 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [twitter.com/ShadowChasing1](https://twitter.com/ShadowChasing1/status/1499361093059153921) |
 | 3 MAR | @vxunderground | News website in Poland was reportedly compromised and the threat actor uploaded anti-Ukrainian propaganda | [twitter.com/vxunderground](https://twitter.com/vxunderground/status/1499374914758918151?s=20&t=jyy9Hnpzy-5P1gcx19bvIA) |
 | 3 MAR | @kylaintheburgh | Russian botnet on Twitter is pushing "#istandwithputin" and "#istandwithrussia" propaganda (in English) | [twitter.com/kylaintheburgh](https://twitter.com/kylaintheburgh/status/1499350578371067906?s=21) |
 | 3 MAR | @tracerspiff | UNC1151/Ghostwriter (Belarus MoD) | [twitter.com](https://twitter.com/tracerspiff/status/1499444876810854408?s=21) |
+| 3 MAR | Trustwave | Gorenie Fundraising Email Scams | [trustwave.com](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/dark-web-insights-evolving-cyber-tactics-aim-to-impact-the-russia-ukraine-conflict/) 
+| 3 MAR | Trend Micro | Prominent Cyber Attacks in Russia-Ukraine Conflict | [Trend Micro](https://www.trendmicro.com/en_us/research/22/c/cyberattacks-are-prominent-in-the-russia-ukraine-conflict.html) |
+| 4 MAR | Interfax | CERT-UA warns about mass mailings of malicious software | [Interfax](https://en.interfax.com.ua/news/general/807175.html) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
@@ -226,7 +231,8 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Romania DNSC | Romania’s DNSC – in partnership with Bitdefender – will provide technical consulting, threat intelligence and, free of charge, cybersecurity technology to any business, government institution or private citizen of Ukraine for as long as it is necessary. | [Romania's DNSC Press Release](https://dnsc.ro/citeste/press-release-dnsc-and-bitdefender-work-together-in-support-of-ukraine)|
 | BitDefender | Access to Bitdefender technical consulting, threat intelligence and both consumer and enterprise cybersecurity technology | [bitdefender.com/ukraine/](https://www.bitdefender.com/ukraine/) |
 | NameCheap | Free anonymous hosting and domain name registration to any anti-Putin anti-regime and protest websites for anyone located within Russia and Belarus | [twitter.com/Namecheap](https://twitter.com/Namecheap/status/1498998414020861953) |
-| Avast | Free decryptor for PartyTicket ransomware | [decoded.avast.io](https://decoded.avast.io/threatresearch/help-for-ukraine-free-decryptor-for-hermeticransom-ransomware/) | 
+| Avast | Free decryptor for PartyTicket ransomware | [decoded.avast.io](https://decoded.avast.io/threatresearch/help-for-ukraine-free-decryptor-for-hermeticransom-ransomware/) |
+| Recorded Future | Insikt Group’s list of indicators of compromise associated with threat actors and malware related to the Russian cyber actions against Ukraine | [recordedfuture.com](https://www.recordedfuture.com/ukraine/) |
 
 #### `Vetted OSINT Sources`
 | Handle | Affiliation |
