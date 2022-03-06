@@ -42,7 +42,7 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_LowConfidence_Unfiltered/Ukraine-Crisis_DomainTools_ThreatHunt_Feed.csv) for recently registered Ukrainian domain names (h/t DomainTools)
   - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered/Ukraine-Crisis_RecordedFuture_ThreatHunt_Feed.csv) for threat groups targeting Ukraine (h/t RecordedFuture)
 - 2022-03-06
-  - Additional [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) for understanding the Russian invasion of Ukraine (h/t UT CREEES)
+  - Additional [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) for understanding Ukraine-conflict (h/t UT CREEES)
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
