@@ -100,9 +100,9 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 27 FEB | LockBit [themselves] | LockBit ransomware | LockBit .onion [not linked] | 
 | 27 FEB | ALPHV [themselves] | ALPHV ransomware | vHUMINT [closed source] |
 | 27 FEB | Mēris Botnet [themselves] | DDoS attacks | vHUMINT [closed source] |
-| 28 FEB | Horizon News [themselves] | Leak of China's Censorship Order about Ukraine | [TechARP](https://www-techarp-com.cdn.ampproject.org/c/s/www.techarp.com/internet/chinese-media-leaks-ukraine-censor/?amp=1)|
-| 28 FEB | Microsoft | FoxBlade (aka HermeticWiper) | [Microsoft](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/?preview_id=65075) |
-| 28 FEB | @heymingwei | Potential BGP hijacks attempts against Ukrainian Internet Names Center | [https://twitter.com/heymingwei](https://twitter.com/heymingwei/status/1498362715198263300?s=20&t=Ju31gTurYc8Aq_yZMbvbxg) |
+| 28 FEB | Horizon News [themselves] | Leak of China's Censorship Order about Ukraine | [techarp.com](https://www-techarp-com.cdn.ampproject.org/c/s/www.techarp.com/internet/chinese-media-leaks-ukraine-censor/?amp=1)|
+| 28 FEB | Microsoft | FoxBlade (aka HermeticWiper) | [blogs.microsoft.com](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/?preview_id=65075) |
+| 28 FEB | @heymingwei | Potential BGP hijacks attempts against Ukrainian Internet Names Center | [twitter.com/heymingwei](https://twitter.com/heymingwei/status/1498362715198263300?s=20&t=Ju31gTurYc8Aq_yZMbvbxg) |
 | 28 FEB | @cyberknow20 | Stormous ransomware targets Ukraine Ministry of Foreign Affairs | [twitter.com/cyberknow20](https://twitter.com/cyberknow20/status/1498434090206314498?s=21) | 
 | 1 MAR | ESET | IsaacWiper and HermeticWizard | [welivesecurity.com](https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/) |
 | 1 MAR | Proofpoint | Ukrainian armed service member's email compromised and sent malspam containing the SunSeed malware (likely TA445/UNC1151/Ghostwriter) | [proofpoint.com](https://www.proofpoint.com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails) |
