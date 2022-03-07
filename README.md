@@ -116,6 +116,11 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 3 MAR | Trend Micro | Prominent Cyber Attacks in Russia-Ukraine Conflict | [Trend Micro](https://www.trendmicro.com/en_us/research/22/c/cyberattacks-are-prominent-in-the-russia-ukraine-conflict.html) |
 | 4 MAR | Interfax | CERT-UA warns about mass mailings of malicious software | [Interfax](https://en.interfax.com.ua/news/general/807175.html) |
 | 5 MAR | SSSCIP Ukraine |  Russian DDos attacks (100 Gbps at their peak)  primarily aimed at the resources of Verkhovna Rada, Cabinet of Ministers, President of Ukraine, Defense Ministry and Internal Affairs Ministry | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1500090448735621128) |
+| 7 MAR | @shakirov2036 | Notice Russian Government Websites To move to domestic hosting thread | [twitter.com/shakirov2036](https://twitter.com/shakirov2036/status/1500584933491982341) |
+| 7 MAR | ReverseMode | SATCOM terminals under attack in Europe: plausible analysis | [Reversemode](https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html) |
+| 7 MAR | eln0ty | HermeticWiper/FoxBlade Analysis (in-depth) | [eln0ty Github](https://eln0ty.github.io/malware%20analysis/HermeticWiper/) |
+| 7 MAR | Trellix | Digging into HermeticWiper | [Trillix](https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/digging-into-hermeticwiper.html) |
+| 7 MAR | U.S. DoT | Press Releases: Treasury Sanctions Russians Bankrolling Putin and Russia-Backed Influence Actors | [treasury.gov](https://home.treasury.gov/news/press-releases/jy0628) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
