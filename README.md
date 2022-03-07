@@ -43,6 +43,7 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered/Ukraine-Crisis_RecordedFuture_ThreatHunt_Feed.csv) for threat groups targeting Ukraine (h/t RecordedFuture)
 - 2022-03-06
   - Additional [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) for understanding the Ukraine-conflict (h/t UT CREEES)
+  - Added [Orange Cyberdefense list of IOCs on Github](https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs) 
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -116,6 +117,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 3 MAR | Trend Micro | Prominent Cyber Attacks in Russia-Ukraine Conflict | [Trend Micro](https://www.trendmicro.com/en_us/research/22/c/cyberattacks-are-prominent-in-the-russia-ukraine-conflict.html) |
 | 4 MAR | Interfax | CERT-UA warns about mass mailings of malicious software | [Interfax](https://en.interfax.com.ua/news/general/807175.html) |
 | 5 MAR | SSSCIP Ukraine |  Russian DDos attacks (100 Gbps at their peak)  primarily aimed at the resources of Verkhovna Rada, Cabinet of Ministers, President of Ukraine, Defense Ministry and Internal Affairs Ministry | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1500090448735621128) |
+| 6 MAR | Orange Cyberdefense | Actively maintained IOC list | [https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs](https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs)
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
