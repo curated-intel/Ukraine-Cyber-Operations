@@ -41,6 +41,13 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-03-04
   - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_LowConfidence_Unfiltered/Ukraine-Crisis_DomainTools_ThreatHunt_Feed.csv) for recently registered Ukrainian domain names (h/t DomainTools)
   - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered/Ukraine-Crisis_RecordedFuture_ThreatHunt_Feed.csv) for threat groups targeting Ukraine (h/t RecordedFuture)
+- 2022-03-05
+  - Additional threat reports have been added
+- 2022-03-06
+  - Additional [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) for understanding the Ukraine-conflict (h/t UT CREEES)
+- 2022-03-07
+  - Additional threat reports have been added
+  - Additional IOCs have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -96,9 +103,9 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 27 FEB | LockBit [themselves] | LockBit ransomware | LockBit .onion [not linked] | 
 | 27 FEB | ALPHV [themselves] | ALPHV ransomware | vHUMINT [closed source] |
 | 27 FEB | Mēris Botnet [themselves] | DDoS attacks | vHUMINT [closed source] |
-| 28 FEB | Horizon News [themselves] | Leak of China's Censorship Order about Ukraine | [TechARP](https://www-techarp-com.cdn.ampproject.org/c/s/www.techarp.com/internet/chinese-media-leaks-ukraine-censor/?amp=1)|
-| 28 FEB | Microsoft | FoxBlade (aka HermeticWiper) | [Microsoft](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/?preview_id=65075) |
-| 28 FEB | @heymingwei | Potential BGP hijacks attempts against Ukrainian Internet Names Center | [https://twitter.com/heymingwei](https://twitter.com/heymingwei/status/1498362715198263300?s=20&t=Ju31gTurYc8Aq_yZMbvbxg) |
+| 28 FEB | Horizon News [themselves] | Leak of China's Censorship Order about Ukraine | [techarp.com](https://www-techarp-com.cdn.ampproject.org/c/s/www.techarp.com/internet/chinese-media-leaks-ukraine-censor/?amp=1)|
+| 28 FEB | Microsoft | FoxBlade (aka HermeticWiper) | [blogs.microsoft.com](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/?preview_id=65075) |
+| 28 FEB | @heymingwei | Potential BGP hijacks attempts against Ukrainian Internet Names Center | [twitter.com/heymingwei](https://twitter.com/heymingwei/status/1498362715198263300?s=20&t=Ju31gTurYc8Aq_yZMbvbxg) |
 | 28 FEB | @cyberknow20 | Stormous ransomware targets Ukraine Ministry of Foreign Affairs | [twitter.com/cyberknow20](https://twitter.com/cyberknow20/status/1498434090206314498?s=21) | 
 | 1 MAR | ESET | IsaacWiper and HermeticWizard | [welivesecurity.com](https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/) |
 | 1 MAR | Proofpoint | Ukrainian armed service member's email compromised and sent malspam containing the SunSeed malware (likely TA445/UNC1151/Ghostwriter) | [proofpoint.com](https://www.proofpoint.com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails) |
@@ -106,14 +113,23 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 1 MAR | CrowdStrike | PartyTicket (aka HermeticRansom), DriveSlayer (aka HermeticWiper) | [CrowdStrike](https://www.crowdstrike.com/blog/how-to-decrypt-the-partyticket-ransomware-targeting-ukraine/) |
 | 2 MAR | Zscaler | DanaBot operators launch DDoS attacks against the Ukrainian Ministry of Defense | [zscaler.com](https://www.zscaler.com/blogs/security-research/danabot-launches-ddos-attack-against-ukrainian-ministry-defense) |
 | 2 MAR | Infoblox | Ukrainian Support Fraud | [blogs.infoblox.com](https://blogs.infoblox.com/cyber-threat-intelligence/cyber-threat-advisory/cyber-threat-advisory-ukrainian-support-fraud/) |
+| 2 MAR | Trellix | Digging into HermeticWiper | [trellix.com](https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/digging-into-hermeticwiper.html) |
 | 3 MAR | @ShadowChasing1 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [twitter.com/ShadowChasing1](https://twitter.com/ShadowChasing1/status/1499361093059153921) |
 | 3 MAR | @vxunderground | News website in Poland was reportedly compromised and the threat actor uploaded anti-Ukrainian propaganda | [twitter.com/vxunderground](https://twitter.com/vxunderground/status/1499374914758918151?s=20&t=jyy9Hnpzy-5P1gcx19bvIA) |
 | 3 MAR | @kylaintheburgh | Russian botnet on Twitter is pushing "#istandwithputin" and "#istandwithrussia" propaganda (in English) | [twitter.com/kylaintheburgh](https://twitter.com/kylaintheburgh/status/1499350578371067906?s=21) |
 | 3 MAR | @tracerspiff | UNC1151/Ghostwriter (Belarus MoD) | [twitter.com](https://twitter.com/tracerspiff/status/1499444876810854408?s=21) |
 | 3 MAR | Trustwave | Gorenie Fundraising Email Scams | [trustwave.com](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/dark-web-insights-evolving-cyber-tactics-aim-to-impact-the-russia-ukraine-conflict/) 
-| 3 MAR | Trend Micro | Prominent Cyber Attacks in Russia-Ukraine Conflict | [Trend Micro](https://www.trendmicro.com/en_us/research/22/c/cyberattacks-are-prominent-in-the-russia-ukraine-conflict.html) |
-| 4 MAR | Interfax | CERT-UA warns about mass mailings of malicious software | [Interfax](https://en.interfax.com.ua/news/general/807175.html) |
+| 3 MAR | Trend Micro | Prominent Cyber Attacks in Russia-Ukraine Conflict | [trendmicro.com](https://www.trendmicro.com/en_us/research/22/c/cyberattacks-are-prominent-in-the-russia-ukraine-conflict.html) |
+| 3 MAR | U.S. DoT | Press Releases: Treasury Sanctions Russians Bankrolling Putin and Russia-Backed Influence Actors | [treasury.gov](https://home.treasury.gov/news/press-releases/jy0628) |
+| 3 MAR | Microsoft MSTIC | DEV-0586 (aka WhisperGate), DEV-0665 (aka FoxBlade/HermeticWizard/HermeticWiper), SonicVote (aka HermeticRansom & PartyTicket), Lasainraw (aka IsaacWiper) | [twitter.com/MalwareRE](https://twitter.com/MalwareRE/status/1499209531670335498) |
+| 4 MAR | Interfax | CERT-UA warns about mass mailings of malicious software | [interfax.com.ua](https://en.interfax.com.ua/news/general/807175.html) |
+| 4 MAR | eln0ty | HermeticWiper/FoxBlade Analysis (in-depth) | [eln0ty.github.io](https://eln0ty.github.io/malware%20analysis/HermeticWiper/) |
+| 4 MAR | Mandiant | Sandworm, UNC2589 (aka Lorec53/UAC-0056/EmberBear), UNC3715 (aka DEV-0665/HermeticWiper), and potentially TEMP.Isotope (aka BerserkBear/EnergeticBear/Dragonfly) | [mandiant.com](https://www.mandiant.com/resources/russia-invasion-ukraine-retaliation) |
 | 5 MAR | SSSCIP Ukraine |  Russian DDos attacks (100 Gbps at their peak)  primarily aimed at the resources of Verkhovna Rada, Cabinet of Ministers, President of Ukraine, Defense Ministry and Internal Affairs Ministry | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1500090448735621128) |
+| 6 MAR | @shakirov2036 | Notice Russian Government Websites To move to domestic hosting thread | [twitter.com/shakirov2036](https://twitter.com/shakirov2036/status/1500584933491982341) |
+| 7 MAR | ReverseMode | SATCOM terminals under attack in Europe: plausible analysis | [reversemode.com](https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html) |
+
+
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
@@ -221,7 +237,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Vendor | Offering | URL |
 | --- | --- | --- |
 | Dragos | Access to Dragos service if from US/UK/ANZ and in need of ICS cybersecurity support | [twitter.com/RobertMLee](https://twitter.com/RobertMLee/status/1496862093588455429) |
-| GreyNoise |  Any and all `Ukrainian` emails registered to GreyNoise have been upgraded to VIP which includes full, uncapped enterprise access to all GreyNoise products | [twitter.com/Andrew___Morris](https://twitter.com/Andrew___Morris/status/1496923545712091139) |
+| GreyNoise |  Any and all `Ukrainian` emails registered to GreyNoise have been upgraded to VIP which includes full, uncapped enterprise access to all GreyNoise products. There is a landing page for GreyNoise data at [https://www.greynoise.io/viz/pulse](https://www.greynoise.io/viz/pulse) | [twitter.com/Andrew___Morris](https://twitter.com/Andrew___Morris/status/1496923545712091139) |
 | Recorded Future | Providing free intelligence-driven insights, perspectives, and mitigation strategies as the situation in Ukraine evolves| [recordedfuture.com](https://www.recordedfuture.com/ukraine/) |
 | Flashpoint | Free Access to Flashpoint’s Latest Threat Intel on Ukraine | [go.flashpoint-intel.com](https://go.flashpoint-intel.com/trial/access/30days) |
 | ThreatABLE | A Ukraine tag for free threat intelligence feed that's more highly curated to cyber| [twitter.com/threatable](https://twitter.com/threatable/status/1497233721803644950) |
@@ -256,3 +272,4 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Monash IP Observatory | https://twitter.com/IP_Observatory | Tracking IP address outages across Ukraine |
 | Project Owl Discord | https://discord.com/invite/projectowl | Tracking foreign policy, geopolitical events, military and governments, using a Discord-based crowdsourced approach, with a current emphasis on Ukraine and Russia |
 | russianwarchatter.info | https://www.russianwarchatter.info/ | Known Russian Military Radio Frequencies |
+| UT CREEES | https://liberalarts.utexas.edu/slavic/resources/ukraine-conflict-resources.php | Compiled resources to help understand the Russian invasion of Ukraine, with links to resources, action items, and academic sources
