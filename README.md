@@ -122,6 +122,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 3 MAR | U.S. DoT | Press Releases: Treasury Sanctions Russians Bankrolling Putin and Russia-Backed Influence Actors | [treasury.gov](https://home.treasury.gov/news/press-releases/jy0628) |
 | 4 MAR | Interfax | CERT-UA warns about mass mailings of malicious software | [interfax.com.ua](https://en.interfax.com.ua/news/general/807175.html) |
 | 4 MAR | eln0ty | HermeticWiper/FoxBlade Analysis (in-depth) | [eln0ty.github.io](https://eln0ty.github.io/malware%20analysis/HermeticWiper/) |
+| 4 MAR | Mandiant | Sandworm, UNC2589 (aka Lorec53/UAC-0056/EmberBear), UNC3715 (aka DEV-0665/HermeticWiper), and potentially TEMP.Isotope (aka BerserkBear/EnergeticBear/Dragonfly) | [mandiant.com](https://www.mandiant.com/resources/russia-invasion-ukraine-retaliation) |
 | 5 MAR | SSSCIP Ukraine |  Russian DDos attacks (100 Gbps at their peak)  primarily aimed at the resources of Verkhovna Rada, Cabinet of Ministers, President of Ukraine, Defense Ministry and Internal Affairs Ministry | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1500090448735621128) |
 | 6 MAR | @shakirov2036 | Notice Russian Government Websites To move to domestic hosting thread | [twitter.com/shakirov2036](https://twitter.com/shakirov2036/status/1500584933491982341) |
 | 7 MAR | ReverseMode | SATCOM terminals under attack in Europe: plausible analysis | [reversemode.com](https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html) |
