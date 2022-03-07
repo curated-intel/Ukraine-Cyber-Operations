@@ -47,6 +47,7 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) for understanding the Ukraine-conflict (h/t UT CREEES)
 - 2022-03-07
   - Additional threat reports have been added
+  - Additional IOCs have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
