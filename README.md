@@ -283,3 +283,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Project Owl Discord | https://discord.com/invite/projectowl | Tracking foreign policy, geopolitical events, military and governments, using a Discord-based crowdsourced approach, with a current emphasis on Ukraine and Russia |
 | russianwarchatter.info | https://www.russianwarchatter.info/ | Known Russian Military Radio Frequencies |
 | UT CREEES | https://liberalarts.utexas.edu/slavic/resources/ukraine-conflict-resources.php | Compiled resources to help understand the Russian invasion of Ukraine, with links to resources, action items, and academic sources
+
+### Note:
+
+Curated Intel `does not` support, encourage, partake, or condone hacking, attacking or targeting users of any kind. This information is `clearly` meant to `help` cybersecurity teams `supporting Ukraine` still doing their jobs while dealing with the Russian invasion.
