@@ -50,6 +50,7 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional IOCs have been added
 - 2022-03-08
   - Additional threat reports have been added
+  - Additional IOCs have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
