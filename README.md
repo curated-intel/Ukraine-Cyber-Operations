@@ -133,6 +133,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 7 MAR | ReverseMode | SATCOM terminals under attack in Europe: plausible analysis | [reversemode.com](https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html) |
 | 7 MAR | Google TAG | FancyBear (aka APT28), Ghostwriter (aka UNC1151), Mustang Panda (aka Temp.Hex), DDoS attacks | [blog.google](https://blog.google/threat-analysis-group/update-threat-landscape-ukraine/) |
 | 7 MAR | CERT-UA | UAC-0051 (aka UNC1151), MicroBackdoor, CVE-2019-0541 | [cert.gov.ua](https://cert.gov.ua/article/37626) |
+| 8 MAR | Google TAG | Phishing campaing targetting UkrNet | [theverge.com](https://www.theverge.com/2022/3/8/22966892/ukraine-us-targeted-cyber-war-russia-invasion-google-phishing-energy)
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
