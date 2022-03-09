@@ -261,6 +261,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | NameCheap | Free anonymous hosting and domain name registration to any anti-Putin anti-regime and protest websites for anyone located within Russia and Belarus | [twitter.com/Namecheap](https://twitter.com/Namecheap/status/1498998414020861953) |
 | Avast | Free decryptor for PartyTicket ransomware | [decoded.avast.io](https://decoded.avast.io/threatresearch/help-for-ukraine-free-decryptor-for-hermeticransom-ransomware/) |
 | Recorded Future | Insikt Group’s list of indicators of compromise associated with threat actors and malware related to the Russian cyber actions against Ukraine | [recordedfuture.com](https://www.recordedfuture.com/ukraine/) |
+| CybelAngel | CybelAngel offers its services to interested NGOs active in the war at no cost, to minimize the risks of their missions being interrupted by cyber attacks. CybelAngel also offers Ukrainian companies an assessment of their digital exposure in the region at no charge. | [cybelangel.com](https://cybelangel.com/blog/message-on-ukraine/) |
 
 #### `Vetted OSINT Sources`
 | Handle | Affiliation |
