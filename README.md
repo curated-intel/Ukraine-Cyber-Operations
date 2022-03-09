@@ -46,11 +46,14 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-03-06
   - Additional [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) for understanding the Ukraine-conflict (h/t UT CREEES)
 - 2022-03-07
-  - Additional threat reports have been added
+  - Additional Threat Reports have been added
   - Additional IOCs have been added
 - 2022-03-08
-  - Additional threat reports have been added
+  - Additional Threat Reports have been added
   - Additional IOCs have been added
+- 2022-03-09
+  - Additional Threat Reports have been added
+  - Additional YARA rules have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -131,8 +134,11 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 5 MAR | SSSCIP Ukraine |  Russian DDos attacks (100 Gbps at their peak)  primarily aimed at the resources of Verkhovna Rada, Cabinet of Ministers, President of Ukraine, Defense Ministry and Internal Affairs Ministry | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1500090448735621128) |
 | 6 MAR | @shakirov2036 | Notice Russian Government Websites To move to domestic hosting thread | [twitter.com/shakirov2036](https://twitter.com/shakirov2036/status/1500584933491982341) |
 | 7 MAR | ReverseMode | SATCOM terminals under attack in Europe: plausible analysis | [reversemode.com](https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html) |
-| 7 MAR | Google TAG | FancyBear (aka APT28), Ghostwriter (aka UNC1151), Mustang Panda (aka Temp.Hex), DDoS attacks | [blog.google](https://blog.google/threat-analysis-group/update-threat-landscape-ukraine/) |
+| 7 MAR | Google TAG | FancyBear (aka APT28) targeted users of UkrNet (a Ukrainian media company), Ghostwriter (aka UNC1151), Mustang Panda (aka Temp.Hex), DDoS attacks | [blog.google](https://blog.google/threat-analysis-group/update-threat-landscape-ukraine/) |
 | 7 MAR | CERT-UA | UAC-0051 (aka UNC1151), MicroBackdoor, CVE-2019-0541 | [cert.gov.ua](https://cert.gov.ua/article/37626) |
+| 8 MAR | Cluster25 | UNC1151/Ghostwriter (Belarus MoD) | [cluster25.io](https://cluster25.io/2022/03/08/ghostwriter-unc1151-adopts-microbackdoor-variants-in-cyber-operations-against-targets-in-ukraine/) |
+| 8 MAR | Trend Micro | RURansom - a data wiper targeting Russian organizations | [trendmicro.com](https://www.trendmicro.com/en_us/research/22/c/new-ruransom-wiper-targets-russia.html) |
+
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
