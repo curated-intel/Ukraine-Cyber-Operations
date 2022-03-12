@@ -139,7 +139,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 7 MAR | CERT-UA | UAC-0051 (aka UNC1151), MicroBackdoor, CVE-2019-0541 | [cert.gov.ua](https://cert.gov.ua/article/37626) |
 | 8 MAR | Cluster25 | UNC1151/Ghostwriter (Belarus MoD) | [cluster25.io](https://cluster25.io/2022/03/08/ghostwriter-unc1151-adopts-microbackdoor-variants-in-cyber-operations-against-targets-in-ukraine/) |
 | 8 MAR | Trend Micro | RURansom - a data wiper targeting Russian organizations | [trendmicro.com](https://www.trendmicro.com/en_us/research/22/c/new-ruransom-wiper-targets-russia.html) |
-| 11 MAR } CERT-UA | Cobalt Strike Beacon | Cyberattack on the state authorities of Ukraine |[cert.gov.ua](https://cert.gov.ua/article/37704)
+| 11 MAR | CERT-UA | Cobalt Strike Beacon | Cyberattack on the state authorities of Ukraine |[cert.gov.ua](https://cert.gov.ua/article/37704) |
 
 
 
