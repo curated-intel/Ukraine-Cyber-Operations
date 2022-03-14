@@ -140,7 +140,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 8 MAR | Cluster25 | UNC1151/Ghostwriter (Belarus MoD) | [cluster25.io](https://cluster25.io/2022/03/08/ghostwriter-unc1151-adopts-microbackdoor-variants-in-cyber-operations-against-targets-in-ukraine/) |
 | 8 MAR | Trend Micro | RURansom - a data wiper targeting Russian organizations | [trendmicro.com](https://www.trendmicro.com/en_us/research/22/c/new-ruransom-wiper-targets-russia.html) |
 | 11 MAR | CERT-UA | Cobalt Strike Beacon | Cyberattack on the state authorities of Ukraine |[cert.gov.ua](https://cert.gov.ua/article/37704) |
-
+| 13 MAR | Spiegel | German Anonymous hacktivists target Rosneft Germany, allegedly stole 20TB of data, deleted 59 Apple devices remotely, and left "Slava Ukraini" on wiped systems | [spiegel.de](https://www.spiegel.de/netzwelt/web/bundeskriminalamt-ermittelt-hackerangriff-auf-rosneft-deutschland-a-74e3a53a-e747-4500-8198-ea6780a7d79a) |
 
 
 #### `Access Brokers`
