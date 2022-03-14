@@ -3,7 +3,7 @@
 # Ukraine-Cyber-Operations
 Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. ([Blog](https://www.curatedintel.org/2021/08/welcome.html) | [Twitter](https://twitter.com/CuratedIntel) | [LinkedIn](https://www.linkedin.com/company/curatedintelligence/))
 
-![timeline](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/uacyberopsv2.png)
+![timeline](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/UkraineTimelineUpdated.png)
 
 ![cyberwar](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Russia-Ukraine%20Cyberwar.png)
 
