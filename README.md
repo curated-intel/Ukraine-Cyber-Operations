@@ -141,6 +141,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 8 MAR | Trend Micro | RURansom - a data wiper targeting Russian organizations | [trendmicro.com](https://www.trendmicro.com/en_us/research/22/c/new-ruransom-wiper-targets-russia.html) |
 | 11 MAR | CERT-UA | Cobalt Strike Beacons, GrimImplant, and GraphSteel malspam against state authorities of Ukraine | [cert.gov.ua](https://cert.gov.ua/article/37704) |
 | 11 MAR | Infosec Magazine | pro-Ukrainian actors should be wary of downloading DDoS tools to attack Russia, as they may be booby-trapped with info-stealing malware | [infosecurity-magazine.com](https://www.infosecurity-magazine.com/news/ukrainian-it-army-hijacked-malware/) |
+| 11 MAR | @cyberknow20 | "Xahnet" shared a video they allegedly left a message and defaced the main page of Ukraine's capital bank [unvalidated] | [twitter.com/cyberknow20](https://twitter.com/cyberknow20/status/1502166591466659840?s=21) |
 | 13 MAR | Spiegel | German Anonymous hacktivists target Rosneft Germany, allegedly stole 20TB of data, deleted 59 Apple devices remotely, and left "Slava Ukraini" on wiped systems | [spiegel.de](https://www.spiegel.de/netzwelt/web/bundeskriminalamt-ermittelt-hackerangriff-auf-rosneft-deutschland-a-74e3a53a-e747-4500-8198-ea6780a7d79a) |
 | 14 MAR | Cisco Talos | Opportunistic cybercriminals take advantage of Ukraine invasion | [blog.talosintelligence.com](https://blog.talosintelligence.com/2022/03/ukraine-invasion-scams-malware.html?m=1) |
 
