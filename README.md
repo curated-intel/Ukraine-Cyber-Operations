@@ -55,6 +55,7 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional Threat Reports have been added
   - Additional YARA rules have been added
 - 2022-03-14
+  - An updated Timeline of attacks has been added 
   - Additional Threat Reports have been added
   - Additional IOCs have been added
   - Additional YARA rules have been added
