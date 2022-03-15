@@ -151,6 +151,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 13 MAR | BeeHive | Twitter user "BeeHive" allegedly exploited a vulnerability in the open-source ADS-B radar reporting feeds and digital transponders to manipulate Russian airlines, causing Aeroflot planes to erroneously squawk "7700" (for emergencies) and display anti-Russian callsigns on flight radars | [twitter.com/BeeHiveCyberSec](https://twitter.com/BeeHiveCyberSec/status/1503079608639320072?s=20&t=LDtQhFLUO3qAckLA1ryKmQ) |
 | 14 MAR | Cisco Talos | Opportunistic cybercriminals take advantage of Ukraine invasion | [blog.talosintelligence.com](https://blog.talosintelligence.com/2022/03/ukraine-invasion-scams-malware.html?m=1) |
 | 14 MAR | ESET | Another wiper was discovered targeting Ukraine, dubbed CaddyWiper, which was delivered via GPO, indicating the adversary had prior control of the target's network beforehand. CaddyWiper is seeminginly not connected to other the wipers targeting Ukraine, including Whispergate, HermeticWiper, or IsaacWiper | [twitter.com/ESETresearch](https://twitter.com/ESETresearch/status/1503436420886712321) |
+| 15 MAR | VICE | The Security Service of Ukraine (SBU) detained a “hacker” who provided assistance to Russian troops in Ukraine by routing phone calls on their behalf, and sent text messages to Ukrainian security forces suggesting they surrender | [vice.com](https://www.vice.com/en/article/v7djda/ukraine-arrests-hacker-routing-calls-for-russian-troops) |
 
 
 #### `Access Brokers`
