@@ -149,6 +149,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 11 MAR | @cyberknow20 | "Xahnet" shared a video they allegedly left a message and defaced the main page of Ukraine's capital bank [unvalidated] | [twitter.com/cyberknow20](https://twitter.com/cyberknow20/status/1502166591466659840?s=21) |
 | 13 MAR | Spiegel | German Anonymous hacktivists target Rosneft Germany, allegedly stole 20TB of data, deleted 59 Apple devices remotely, and left "Slava Ukraini" on wiped systems | [spiegel.de](https://www.spiegel.de/netzwelt/web/bundeskriminalamt-ermittelt-hackerangriff-auf-rosneft-deutschland-a-74e3a53a-e747-4500-8198-ea6780a7d79a) |
 | 14 MAR | Cisco Talos | Opportunistic cybercriminals take advantage of Ukraine invasion | [blog.talosintelligence.com](https://blog.talosintelligence.com/2022/03/ukraine-invasion-scams-malware.html?m=1) |
+| 14 MAR | ESET | Another wiper was discovered targeting Ukraine, dubbed CaddyWiper, which was delivered via GPO, indicating the adversary had prior control of the target's network beforehand. CaddyWiper is seeminginly not connected to other the wipers targeting Ukraine, including Whispergate, HermeticWiper, or IsaacWiper | [twitter.com/ESETresearch](https://twitter.com/ESETresearch/status/1503436420886712321) |
 
 
 #### `Access Brokers`
