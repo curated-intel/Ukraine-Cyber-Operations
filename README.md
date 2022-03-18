@@ -23,11 +23,11 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Added [Access Brokers](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#access-brokers) section
 - 2022-02-28
   - Added Russian Cyber Operations Against Ukraine Timeline by ETAC
-  - Added Vetted and Contextualized [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_Vetted_UkraineRussiaWar_IOCs.csv) by ETAC
+  - Added Vetted and Contextualized [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/ETAC_IOCs) by ETAC
 - 2022-03-01
   - Additional threat reports and resources have been added
 - 2022-03-02
-  - Additional [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_Vetted_UkraineRussiaWar_IOCs.csv#L2011) have been added
+  - Additional IOCs have been added
   - Added vetted [YARA rule collection](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/yara) from the Threat Reports by ETAC
   - Added loosely-vetted [IOC Threat Hunt Feeds](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered) by KPMG-Egyde CTI (h/t [0xDISREL](https://twitter.com/0xDISREL))
     - IOCs shared by these feeds are `LOW-TO-MEDIUM CONFIDENCE` we strongly recommend NOT adding them to a blocklist
@@ -37,7 +37,7 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional threat reports and vendor support resources have been added
   - Updated [Log4Shell IOC Threat Hunt Feeds](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/KPMG_Log4Shell_Feeds) by KPMG-Egyde CTI; not directly related to Ukraine, but still a widespread vulnerability.
   - Added diagram of Russia-Ukraine Cyberwar Participants 2022 by ETAC
-  - Additional [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_Vetted_UkraineRussiaWar_IOCs.csv#L2042) have been added
+  - Additional IOCs have been added
 - 2022-03-04
   - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_LowConfidence_Unfiltered/Ukraine-Crisis_DomainTools_ThreatHunt_Feed.csv) for recently registered Ukrainian domain names (h/t DomainTools)
   - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered/Ukraine-Crisis_RecordedFuture_ThreatHunt_Feed.csv) for threat groups targeting Ukraine (h/t RecordedFuture)
