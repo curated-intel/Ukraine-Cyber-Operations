@@ -155,6 +155,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 14 MAR | Cisco Talos | Opportunistic cybercriminals take advantage of Ukraine invasion | [blog.talosintelligence.com](https://blog.talosintelligence.com/2022/03/ukraine-invasion-scams-malware.html?m=1) |
 | 14 MAR | ESET | Another wiper was discovered targeting Ukraine, dubbed CaddyWiper, which was delivered via GPO, indicating the adversary had prior control of the target's network beforehand. CaddyWiper is seeminginly not connected to other the wipers targeting Ukraine, including Whispergate, HermeticWiper, or IsaacWiper | [twitter.com/ESETresearch](https://twitter.com/ESETresearch/status/1503436420886712321) |
 | 15 MAR | VICE | The Security Service of Ukraine (SBU) detained a “hacker” who provided assistance to Russian troops in Ukraine by routing phone calls on their behalf, and sent text messages to Ukrainian security forces suggesting they surrender | [vice.com](https://www.vice.com/en/article/v7djda/ukraine-arrests-hacker-routing-calls-for-russian-troops) |
+| 15 MAR | SentinelONE | Threat Actor UAC-0056 Targeting Ukraine with Fake Translation Software | [sentinelone.com/blog](https://www.sentinelone.com/blog/threat-actor-uac-0056-targeting-ukraine-with-fake-translation-software/) |
 
 
 #### `Access Brokers`
@@ -278,6 +279,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Avast | Free decryptor for PartyTicket ransomware | [decoded.avast.io](https://decoded.avast.io/threatresearch/help-for-ukraine-free-decryptor-for-hermeticransom-ransomware/) |
 | Recorded Future | Insikt Group’s list of indicators of compromise associated with threat actors and malware related to the Russian cyber actions against Ukraine | [recordedfuture.com](https://www.recordedfuture.com/ukraine/) |
 | CybelAngel | CybelAngel offers its services to interested NGOs active in the war at no cost, to minimize the risks of their missions being interrupted by cyber attacks. CybelAngel also offers Ukrainian companies an assessment of their digital exposure in the region at no charge. | [cybelangel.com](https://cybelangel.com/blog/message-on-ukraine/) |
+| Malware Patrol | Free 6 months DNS Firewall service subscription for Ukraine-based companies and goverment entities | [www.linkedin.com](https://www.linkedin.com/feed/update/urn:li:activity:6903059206522712064/)
 
 #### `Vetted OSINT Sources`
 | Handle | Affiliation |
