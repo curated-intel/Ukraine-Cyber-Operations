@@ -66,6 +66,9 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional Threat Reports have been added
   - Additional IOCs have been added to the master CSV file
   - A new CSV for CERT-UA IOCs specifically has been created - see [here](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_IOCs/CERT-UA_IOCs.csv)
+- 2022-03-19
+  - Additional Threat Reports have been added
+  - Additional IOCs have been added to the master CSV file
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
