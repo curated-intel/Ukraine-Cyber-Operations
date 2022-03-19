@@ -162,6 +162,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 15 MAR | SentinelOne | Threat Actor UAC-0056 Targeting Ukraine with Fake Translation Software | [sentinelone.com/blog](https://www.sentinelone.com/blog/threat-actor-uac-0056-targeting-ukraine-with-fake-translation-software/) |
 | 16 MAR | CERT-UA | QR code phishing posing as UKR.NET linked to UAC-0028 group (APT28/FancyBear/GRU) | [cert.gov.ua](https://cert.gov.ua/article/37788) |
 | 17 MAR | CERT-UA | UAC-0020 (Vermin) cyberattack on Ukrainian state organizations using the SPECTR malware, whose activities are associated with the so-called security agencies of the so-called "Luhansk People's Republic" | [cert.gov.ua](https://cert.gov.ua/article/37815) |
+| 18 MAR | CERT-UA | UAC-0035 (InvisiMole) cyberattack on State Organizations of Ukraine | [cert.gov.ua](https://cert.gov.ua/article/37829) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
