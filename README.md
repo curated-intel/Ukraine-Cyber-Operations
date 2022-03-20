@@ -69,6 +69,8 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-03-19
   - Additional Threat Reports have been added
   - Additional IOCs have been added to the master CSV file
+- 2022-03-20
+  - Additional YARA rules have been added (h/t [Arkbird_SOLG](https://twitter.com/Arkbird_SOLG))
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
