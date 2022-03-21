@@ -71,6 +71,9 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional IOCs have been added to the master CSV file
 - 2022-03-20
   - Additional YARA rules have been added (h/t [Arkbird_SOLG](https://twitter.com/Arkbird_SOLG))
+- 2022-03-21
+  - An Additional Threat Report has been added
+  - Additional YARA rules have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -156,6 +159,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 7 MAR | CERT-UA | UAC-0051 (aka UNC1151), MicroBackdoor, CVE-2019-0541 | [cert.gov.ua](https://cert.gov.ua/article/37626) |
 | 8 MAR | Cluster25 | UNC1151/Ghostwriter (Belarus MoD) | [cluster25.io](https://cluster25.io/2022/03/08/ghostwriter-unc1151-adopts-microbackdoor-variants-in-cyber-operations-against-targets-in-ukraine/) |
 | 8 MAR | Trend Micro | RURansom - a data wiper targeting Russian organizations | [trendmicro.com](https://www.trendmicro.com/en_us/research/22/c/new-ruransom-wiper-targets-russia.html) |
+| 9 MAR | ReversingLabs | HermeticWiper and IsaacWiper | [blog.reversinglabs.com](https://blog.reversinglabs.com/blog/wiper-malware-targeting-ukraine-evidence-of-planning-and-haste) |
 | 11 MAR | CERT-UA | UAC-0056 (aka Lorec53, EmberBear) push fake antivirus updates containing Cobalt Strike Beacons, GrimImplant, and GraphSteel malspam against state authorities of Ukraine | [cert.gov.ua](https://cert.gov.ua/article/37704) |
 | 11 MAR | Infosec Magazine | pro-Ukrainian actors should be wary of downloading DDoS tools to attack Russia, as they may be booby-trapped with info-stealing malware | [infosecurity-magazine.com](https://www.infosecurity-magazine.com/news/ukrainian-it-army-hijacked-malware/) |
 | 11 MAR | @cyberknow20 | "Xahnet" shared a video they allegedly left a message and defaced the main page of Ukraine's capital bank [unvalidated] | [twitter.com/cyberknow20](https://twitter.com/cyberknow20/status/1502166591466659840?s=21) |
