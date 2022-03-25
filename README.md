@@ -77,6 +77,9 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-03-23
   - Additional Threat Reports have been added
   - Additional IOCs have been added
+- 2022-03-25
+  - Additional Threat Reports have been added
+  - Additional IOCs have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -177,6 +180,10 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 18 MAR | CERT-UA | UAC-0035 (InvisiMole) cyberattack on State Organizations of Ukraine | [cert.gov.ua](https://cert.gov.ua/article/37829) |
 | 22 MAR | CERT-UA | UAC-0088 deploys DoubleZero wiper | [cert.gov.ua](https://cert.gov.ua/article/38088) |
 | 22 MAR | CERT-UA | UAC-0026 cyberattack using HeaderTip malware, linked to [Scarab APT](https://twitter.com/aRtAGGI/status/1506010831221248002) | [cert.gov.ua](https://cert.gov.ua/article/38097) |
+| 23 MAR | Interfax UA | Datagroup, a provider of fiber-optic infrastructure and digital services, resolved more than 350 DDoS attacks on the country's telecommunications network during the month of the war. The largest attack was 103.6 Gbps, 28.0 Mpps; the most powerful attack was 27.6 Gbps, 43.0 Mpps; the longest attack was 24 days. | [interfax.com.ua](https://en.interfax.com.ua/news/telecom/817143.html) |
+| 23 MAR | BalkanInsight | Croatian police are probing the hacking of the ‘Slobodna Dalmacija’ website, where hackers replaced content with pro-Russian articles on Ukraine. “Western Deception Machine”, “Which Side Are You On?”, and “The United States of America Admitted They Have Hidden Laboratories in Ukraine”, are just some of the fake articles that the hackers posted online. | [balkaninsight.com](https://balkaninsight.com/2022/03/23/hackers-attack-croatian-daily-post-kremlin-propaganda/) |
+| 23 MAR | CERT-UA | UAC-0051 group (UNC1151/GhostWriter), Cobalt Strike Beacons | [cert.gov.ua](https://cert.gov.ua/article/38155) |
+| 23 MAR | SentinelOne | Ukraine CERT (CERT-UA) has released new details on UAC-0026, which SentinelLabs confirms is associated with the suspected Chinese threat actor known as Scarab. Scarab has conducted a number of campaigns over the years, making use of a custom backdoor originally known as Scieron, which may be the predecessor to HeaderTip. | [sentinelone.com](https://www.sentinelone.com/labs/chinese-threat-actor-scarab-targeting-ukraine/) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
