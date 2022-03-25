@@ -24,7 +24,7 @@ MD5,65237e705e842da0a891c222e57fe095,microbackdoor.dll (MicroBackdoor),hxxps://c
 URL,hxxps://cdn.discordapp.com/attachments/947916997713358890/949948174636830761/one.exe,UAC-0056 group,hxxps://cert.gov.ua/article/37704,
 URL,hxxps://cdn.discordapp.com/attachments/947916997713358890/949948174838165524/dropper.exe,UAC-0056 group,hxxps://cert.gov.ua/article/37704,
 URL,hxxps://cdn.discordapp.com/attachments/947916997713358890/949978571680673802/cesdf.exe,UAC-0056 group,hxxps://cert.gov.ua/article/37704,
-IPv4,156.146.50.5,UAC-0056 group,hxxps://cert.gov.ua/article/37707,
+IPv4,156.146.50.5,UAC-0056 group,hxxps://cert.gov.ua/article/37704,
 MD5,15c525b74b7251cfa1f7c471975f3f95,(Go downloader) UAC-0056 group,hxxps://cert.gov.ua/article/37708,
 MD5,2fdf9f3a25e039a41e743e19550d4040,(Discord downloader) UAC-0056 group,hxxps://cert.gov.ua/article/37708,
 MD5,4f11abdb96be36e3806bada5b8b2b8f8,(GrimPlant) UAC-0056 group,hxxps://cert.gov.ua/article/37708,
