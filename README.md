@@ -83,6 +83,9 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-03-28
   - Additional Threat Reports have been added
   - Additional IOCs have been added
+- 2022-03-30
+  - Additional Threat Reports have been added
+  - Additional YARA rules have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
