@@ -191,6 +191,9 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 25 MAR | SSSCIP Ukraine | Who is behind the Cyberattacks on Ukraine's Critical Information Infrastructure: Statistics for March 15-22 | [cip.gov.ua](https://cip.gov.ua/en/news/khto-stoyit-za-kiberatakami-na-ukrayinsku-kritichnu-informaciinu-infrastrukturu-statistika-15-22-bereznya) |
 | 25 MAR | SSSCIP Ukraine | Statistics of Cyber Attacks on Ukrainian Critical Information Infrastructure: 15-22 March | [cip.gov.ua](https://cip.gov.ua/en/news/statistika-kiberatak-na-ukrayinsku-kritichnu-informaciinu-infrastrukturu-15-22-bereznya) |
 | 28 MAR | CERT-UA | Cyberattack on Ukrainian state authorities using pseudoSteel malware linked to UAC-0010 (Armageddon/Gamaredon) | [cert.gov.ua](https://cert.gov.ua/article/38371) |
+| 28 MAR | Cyber, etc | Ukraine's largest fix-line telecommunications operator hit by cyber attack | [Cyber, etc](https://twitter.com/cyber_etc/status/1508498145831010315) |
+| 28 MAR | SSSCIP Ukraine | Cyberattack against Ukrtelecom IT-infrastructure and recovery | [twitter.com/ dsszzi](https://twitter.com/dsszzi/status/1508528209075257347) |
+| 29 MAR | Newsweek | U.S. Airport hit with Cyberattack over Ukraine | [Newsweek](https://www.newsweek.com/us-airport-hit-cyberattack-over-ukraine-no-one-afraid-you-1692903) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
