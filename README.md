@@ -89,6 +89,9 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-04-01
   - Additional Threat Reports have been added
   - Additional Vendor Support have been added
+- 2022-04-04
+  - Additional Threat Reports have been added
+  - Additional YARA rules have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
