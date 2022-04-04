@@ -208,8 +208,12 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 30 MAR | CERT-UA | MarsStealer, UAC-0041 | [cert.gov.ua](https://cert.gov.ua/article/38606) |
 | 30 MAR | Google TAG | Curious Gorge (APT from China), COLDRIVER (APT from Russia), Ghostwriter (APT from Belarus) | [blog.google](https://blog.google/threat-analysis-group/tracking-cyber-activity-eastern-europe/) |
 | 30 MAR | Viasat | KA-SAT Network cyber attack overview | [viasat.com](https://www.viasat.com/about/newsroom/blog/ka-sat-network-cyber-attack-overview/) |
+| 30 MAR | InQuest | CloudAtlas APT group linked to a maldoc impersonating the United States Securities and Exchange Commission | [inquest.net](https://inquest.net/blog/2022/03/30/cloud-atlas-maldoc) |
 | 31 MAR | ReverseMode | VIASAT incident: from speculation to technical details | [reversemode.com](https://www.reversemode.com/2022/03/viasat-incident-from-speculation-to.html) |
 | 31 MAR | SentinelLabs | [AcidRain](https://bazaar.abuse.ch/sample/9b4dfaca873961174ba935fddaf696145afe7bbf5734509f95feb54f3584fd9a/) IoT Wiper (ELF MIPS), connected to the [VPNFilter](https://bazaar.abuse.ch/sample/47f521bd6be19f823bfd3a72d851d6f3440a6c4cc3d940190bdc9b6dd53a83d6/) stage 3 destructive plugin | [sentinelone.com](https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/) |
+| 1 APR | Malwarebytes | UAC-0056 (aka SaintBear, UNC2589 and TA471) is a cyber espionage actor that has been active since early 2021 and has mainly targeted Ukraine and Georgia | [blog.malwarebytes.com](https://blog.malwarebytes.com/threat-intelligence/2022/04/new-uac-0056-activity-theres-a-go-elephant-in-the-room/) |
+| 3 APR | me | Low-detect BlackGuard infostealer uploaded to AnyRun from Ukraine | [twitter.com/BushidoToken](https://twitter.com/BushidoToken/status/1510619652946378754) |
+| 4 APR | CERT-UA | UAC-0010 (Armageddon) cyberattack on Ukrainian state organizations, phishing w/ RAR -> HTA -> VBS | [cert.gov.ua](https://cert.gov.ua/article/39138) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
