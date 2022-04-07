@@ -1,11 +1,11 @@
-![logo](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ci-logo.png)
+![logo](ci-logo.png)
 
 # Ukraine-Cyber-Operations
 Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. ([Blog](https://www.curatedintel.org/2021/08/welcome.html) | [Twitter](https://twitter.com/CuratedIntel) | [LinkedIn](https://www.linkedin.com/company/curatedintelligence/))
 
-![timeline](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/UkraineTimelineUpdated.png)
+![timeline](UkraineTimelineUpdated.png)
 
-![cyberwar](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Russia-Ukraine%20Cyberwar.png)
+![cyberwar](Russia-Ukraine%20Cyberwar.png)
 
 ### Analyst Comments:
 
@@ -68,9 +68,30 @@ Curated Intelligence is working with analysts from around the world to provide u
   - A new CSV for CERT-UA IOCs specifically has been created - see [here](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_IOCs/CERT-UA_IOCs.csv)
 - 2022-03-19
   - Additional Threat Reports have been added
-  - Additional IOCs have been added to the master CSV file
+  - Additional IOCs have been added
 - 2022-03-20
   - Additional YARA rules have been added (h/t [Arkbird_SOLG](https://twitter.com/Arkbird_SOLG))
+- 2022-03-21
+  - An Additional Threat Report has been added
+  - Additional YARA rules have been added
+- 2022-03-23
+  - Additional Threat Reports have been added
+  - Additional IOCs have been added
+- 2022-03-25
+  - Additional Threat Reports have been added
+  - Additional IOCs have been added
+- 2022-03-28
+  - Additional Threat Reports have been added
+  - Additional IOCs have been added
+- 2022-03-30
+  - Additional Threat Reports have been added
+  - Additional YARA rules have been added
+- 2022-04-01
+  - Additional Threat Reports have been added
+  - Additional Vendor Support have been added
+- 2022-04-04
+  - Additional Threat Reports have been added
+  - Additional YARA rules have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -156,6 +177,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 7 MAR | CERT-UA | UAC-0051 (aka UNC1151), MicroBackdoor, CVE-2019-0541 | [cert.gov.ua](https://cert.gov.ua/article/37626) |
 | 8 MAR | Cluster25 | UNC1151/Ghostwriter (Belarus MoD) | [cluster25.io](https://cluster25.io/2022/03/08/ghostwriter-unc1151-adopts-microbackdoor-variants-in-cyber-operations-against-targets-in-ukraine/) |
 | 8 MAR | Trend Micro | RURansom - a data wiper targeting Russian organizations | [trendmicro.com](https://www.trendmicro.com/en_us/research/22/c/new-ruransom-wiper-targets-russia.html) |
+| 9 MAR | ReversingLabs | HermeticWiper and IsaacWiper | [blog.reversinglabs.com](https://blog.reversinglabs.com/blog/wiper-malware-targeting-ukraine-evidence-of-planning-and-haste) |
 | 11 MAR | CERT-UA | UAC-0056 (aka Lorec53, EmberBear) push fake antivirus updates containing Cobalt Strike Beacons, GrimImplant, and GraphSteel malspam against state authorities of Ukraine | [cert.gov.ua](https://cert.gov.ua/article/37704) |
 | 11 MAR | Infosec Magazine | pro-Ukrainian actors should be wary of downloading DDoS tools to attack Russia, as they may be booby-trapped with info-stealing malware | [infosecurity-magazine.com](https://www.infosecurity-magazine.com/news/ukrainian-it-army-hijacked-malware/) |
 | 11 MAR | @cyberknow20 | "Xahnet" shared a video they allegedly left a message and defaced the main page of Ukraine's capital bank [unvalidated] | [twitter.com/cyberknow20](https://twitter.com/cyberknow20/status/1502166591466659840?s=21) |
@@ -168,6 +190,33 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 16 MAR | CERT-UA | QR code phishing posing as UKR.NET linked to UAC-0028 group (APT28/FancyBear/GRU) | [cert.gov.ua](https://cert.gov.ua/article/37788) |
 | 17 MAR | CERT-UA | UAC-0020 (Vermin) cyberattack on Ukrainian state organizations using the SPECTR malware, whose activities are associated with the so-called security agencies of the so-called "Luhansk People's Republic" | [cert.gov.ua](https://cert.gov.ua/article/37815) |
 | 18 MAR | CERT-UA | UAC-0035 (InvisiMole) cyberattack on State Organizations of Ukraine | [cert.gov.ua](https://cert.gov.ua/article/37829) |
+| 22 MAR | CERT-UA | UAC-0088 deploys DoubleZero wiper | [cert.gov.ua](https://cert.gov.ua/article/38088) |
+| 22 MAR | CERT-UA | UAC-0026 cyberattack using HeaderTip malware, linked to [Scarab APT](https://twitter.com/aRtAGGI/status/1506010831221248002) | [cert.gov.ua](https://cert.gov.ua/article/38097) |
+| 23 MAR | Interfax UA | Datagroup, a provider of fiber-optic infrastructure and digital services, resolved more than 350 DDoS attacks on the country's telecommunications network during the month of the war. The largest attack was 103.6 Gbps, 28.0 Mpps; the most powerful attack was 27.6 Gbps, 43.0 Mpps; the longest attack was 24 days. | [interfax.com.ua](https://en.interfax.com.ua/news/telecom/817143.html) |
+| 23 MAR | BalkanInsight | Croatian police are probing the hacking of the ‘Slobodna Dalmacija’ website, where hackers replaced content with pro-Russian articles on Ukraine. “Western Deception Machine”, “Which Side Are You On?”, and “The United States of America Admitted They Have Hidden Laboratories in Ukraine”, are just some of the fake articles that the hackers posted online. | [balkaninsight.com](https://balkaninsight.com/2022/03/23/hackers-attack-croatian-daily-post-kremlin-propaganda/) |
+| 23 MAR | CERT-UA | UAC-0051 group (UNC1151/GhostWriter), Cobalt Strike Beacons | [cert.gov.ua](https://cert.gov.ua/article/38155) |
+| 24 MAR | SentinelOne | Ukraine CERT (CERT-UA) has released new details on UAC-0026, which SentinelLabs confirms is associated with the suspected Chinese threat actor known as Scarab. Scarab has conducted a number of campaigns over the years, making use of a custom backdoor originally known as Scieron, which may be the predecessor to HeaderTip. | [sentinelone.com](https://www.sentinelone.com/labs/chinese-threat-actor-scarab-targeting-ukraine/) |
+| 24 MAR | Lab52 | Quasar RAT spear-phishing campaign | [lab52.io](https://lab52.io/blog/another-cyber-espionage-campaign-in-the-russia-ukrainian-ongoing-cyber-attacks/) |
+| 25 MAR | SSSCIP Ukraine | Who is behind the Cyberattacks on Ukraine's Critical Information Infrastructure: Statistics for March 15-22 | [cip.gov.ua](https://cip.gov.ua/en/news/khto-stoyit-za-kiberatakami-na-ukrayinsku-kritichnu-informaciinu-infrastrukturu-statistika-15-22-bereznya) |
+| 25 MAR | SSSCIP Ukraine | Statistics of Cyber Attacks on Ukrainian Critical Information Infrastructure: 15-22 March | [cip.gov.ua](https://cip.gov.ua/en/news/statistika-kiberatak-na-ukrayinsku-kritichnu-informaciinu-infrastrukturu-15-22-bereznya) |
+| 26 MAR | @_n0p_ | Analysis of a Caddy Wiper Sample | [n0p.me](https://n0p.me/2022/03/2022-03-26-caddywiper/) |
+| 28 MAR | CERT-UA | Cyberattack on Ukrainian state authorities using pseudoSteel malware linked to UAC-0010 (Armageddon/Gamaredon) | [cert.gov.ua](https://cert.gov.ua/article/38371) |
+| 28 MAR | Cyber, etc | Ukraine's largest fix-line telecommunications operator hit by cyber attack | [Cyber, etc](https://twitter.com/cyber_etc/status/1508498145831010315) |
+| 28 MAR | SSSCIP Ukraine | Cyberattack against Ukrtelecom IT-infrastructure and recovery | [twitter.com/ dsszzi](https://twitter.com/dsszzi/status/1508528209075257347) |
+| 28 MAR | CERT-UA | GraphSteel and GrimPlant, UAC-0056 | [cert.gov.ua](https://cert.gov.ua/article/38374) |
+| 29 MAR | Newsweek | U.S. Airport hit with Cyberattack over Ukraine | [Newsweek](https://www.newsweek.com/us-airport-hit-cyberattack-over-ukraine-no-one-afraid-you-1692903) |
+| 29 MAR | ZDnet | The Security Service of Ukraine (SBU) has destroyed five "enemy" bot farms engaged in activities to frighten Ukrainian citizens. In a March 28 release, the SBU said that the bot farms had an overall capacity of at least 100,000 accounts spreading misinformation and fake news surrounding Russia's invasion of Ukraine | [zdnet.com](https://www.zdnet.com/article/ukraine-takes-out-five-bot-farms-spreading-panic-among-citizens/) |
+| 30 MAR | Viasat | Viasat is providing an overview and incident report on the cyber-attack against the KA-SAT network, which occurred on 24 February 2022, and resulted in a partial interruption of KA-SAT's consumer-oriented satellite broadband service. | [viasat.com](https://www.viasat.com/about/newsroom/blog/ka-sat-network-cyber-attack-overview/) |
+| 30 MAR | CrowdStrike | EMBER BEAR (aka UAC-0056, Lorec53, Lorec Bear, Bleeding Bear, Saint Bear) | [crowdstrike.com](https://www.crowdstrike.com/blog/who-is-ember-bear/) |
+| 30 MAR | CERT-UA | MarsStealer, UAC-0041 | [cert.gov.ua](https://cert.gov.ua/article/38606) |
+| 30 MAR | Google TAG | Curious Gorge (APT from China), COLDRIVER (APT from Russia), Ghostwriter (APT from Belarus) | [blog.google](https://blog.google/threat-analysis-group/tracking-cyber-activity-eastern-europe/) |
+| 30 MAR | Viasat | KA-SAT Network cyber attack overview | [viasat.com](https://www.viasat.com/about/newsroom/blog/ka-sat-network-cyber-attack-overview/) |
+| 30 MAR | InQuest | CloudAtlas APT group linked to a maldoc impersonating the United States Securities and Exchange Commission | [inquest.net](https://inquest.net/blog/2022/03/30/cloud-atlas-maldoc) |
+| 31 MAR | ReverseMode | VIASAT incident: from speculation to technical details | [reversemode.com](https://www.reversemode.com/2022/03/viasat-incident-from-speculation-to.html) |
+| 31 MAR | SentinelLabs | [AcidRain](https://bazaar.abuse.ch/sample/9b4dfaca873961174ba935fddaf696145afe7bbf5734509f95feb54f3584fd9a/) IoT Wiper (ELF MIPS), connected to the [VPNFilter](https://bazaar.abuse.ch/sample/47f521bd6be19f823bfd3a72d851d6f3440a6c4cc3d940190bdc9b6dd53a83d6/) stage 3 destructive plugin | [sentinelone.com](https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/) |
+| 1 APR | Malwarebytes | UAC-0056 (aka SaintBear, UNC2589 and TA471) is a cyber espionage actor that has been active since early 2021 and has mainly targeted Ukraine and Georgia | [blog.malwarebytes.com](https://blog.malwarebytes.com/threat-intelligence/2022/04/new-uac-0056-activity-theres-a-go-elephant-in-the-room/) |
+| 3 APR | me | Low-detect BlackGuard infostealer uploaded to AnyRun from Ukraine | [twitter.com/BushidoToken](https://twitter.com/BushidoToken/status/1510619652946378754) |
+| 4 APR | CERT-UA | UAC-0010 (Armageddon) cyberattack on Ukrainian state organizations, phishing w/ RAR -> HTA -> VBS | [cert.gov.ua](https://cert.gov.ua/article/39138) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
@@ -290,7 +339,8 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Avast | Free decryptor for PartyTicket ransomware | [decoded.avast.io](https://decoded.avast.io/threatresearch/help-for-ukraine-free-decryptor-for-hermeticransom-ransomware/) |
 | Recorded Future | Insikt Group’s list of indicators of compromise associated with threat actors and malware related to the Russian cyber actions against Ukraine | [recordedfuture.com](https://www.recordedfuture.com/ukraine/) |
 | CybelAngel | CybelAngel offers its services to interested NGOs active in the war at no cost, to minimize the risks of their missions being interrupted by cyber attacks. CybelAngel also offers Ukrainian companies an assessment of their digital exposure in the region at no charge. | [cybelangel.com](https://cybelangel.com/blog/message-on-ukraine/) |
-| Malware Patrol | Free 6 months DNS Firewall service subscription for Ukraine-based companies and goverment entities | [www.linkedin.com](https://www.linkedin.com/feed/update/urn:li:activity:6903059206522712064/)
+| Malware Patrol | Free 6 months DNS Firewall service subscription for Ukraine-based companies and goverment entities | [www.linkedin.com](https://www.linkedin.com/feed/update/urn:li:activity:6903059206522712064/) |
+| UnderDefense | UnderDefense is providing Managed Detection & Response services and incident repsonse support for Ukrainian critical infrastructure & government consulting in cybersecurity | [underdefense.com](https://underdefense.com/) |
 
 #### `Vetted OSINT Sources`
 | Handle | Affiliation |
