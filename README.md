@@ -94,6 +94,8 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional YARA rules have been added
 - 2022-04-07
   - Additional Threat Reports have been added
+- 2022-04-08
+  - Additional Threat Reports have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -229,6 +231,8 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 7 APR | @iiyonite | IT ARMY of Ukraine breached a database of Rossgram beta sign-ups (Russian Instagram clone), then created a fake Rossgram app, send invites to said beta users, then pushed notifications out to those users that Rossgram was hacked and then leaked the data of the beta users | [twitter.com/iiyonite](https://twitter.com/iiyonite/status/1512001395255357443) |
 | 7 APR | @h2jazi | CloudAtlas APT maldoc: "Composition_of_the_State_Defense_Committee_of_Donetsk_People_Republic.doc" | [twitter.com/h2jazi](https://twitter.com/h2jazi/status/1512076989556961286?s=21&t=zdqFNbXN9GnKZiKQNp-UqQ) |
 | 7 APR | Facebook/Meta | Government-linked actors from Russia and Belarus engaged in cyber espionage and covert influence operations online. This activity included interest in the Ukrainian telecom industry; both global and Ukrainian defense and energy sectors; tech platforms; and journalists and activists in Ukraine, Russia, and abroad | [about.fb.com](https://about.fb.com/wp-content/uploads/2022/04/Meta-Quarterly-Adversarial-Threat-Report_Q1-2022.pdf) |
+| 8 APR | Microsoft | Microsoft took down Strontium domains using this infrastructure for [phishing](https://twitter.com/dacuddy/status/1512193359602888725) to target Ukrainian institutions including media organizations. It was also targeting government institutions and think tanks in the United States and the European Union involved in foreign policy | [blogs.microsoft.com](https://blogs.microsoft.com/on-the-issues/2022/04/07/cyberattacks-ukraine-strontium-russia/) |
+| 8 APR | MFA Finland | Russia accused of disruptions in the Foreign Ministry's online services: Um[.]fi and Finlanabroad[.]fi sites were targeted by DDoS | [twitter.com/Ulkoministerio](https://twitter.com/Ulkoministerio/status/1512368322012233731?s=20&t=Eh6rnggBh4Zvn8la45AL5Q) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
