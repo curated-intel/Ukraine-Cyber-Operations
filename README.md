@@ -233,6 +233,8 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 7 APR | Facebook/Meta | Government-linked actors from Russia and Belarus engaged in cyber espionage and covert influence operations online. This activity included interest in the Ukrainian telecom industry; both global and Ukrainian defense and energy sectors; tech platforms; and journalists and activists in Ukraine, Russia, and abroad | [about.fb.com](https://about.fb.com/wp-content/uploads/2022/04/Meta-Quarterly-Adversarial-Threat-Report_Q1-2022.pdf) |
 | 8 APR | Microsoft | Microsoft took down Strontium domains using this infrastructure for [phishing](https://twitter.com/dacuddy/status/1512193359602888725) to target Ukrainian institutions including media organizations. It was also targeting government institutions and think tanks in the United States and the European Union involved in foreign policy | [blogs.microsoft.com](https://blogs.microsoft.com/on-the-issues/2022/04/07/cyberattacks-ukraine-strontium-russia/) |
 | 8 APR | MFA Finland | Russia accused of disruptions in the Foreign Ministry's online services: Um[.]fi and Finlanabroad[.]fi sites were targeted by DDoS | [twitter.com/Ulkoministerio](https://twitter.com/Ulkoministerio/status/1512368322012233731?s=20&t=Eh6rnggBh4Zvn8la45AL5Q) |
+| 12 APR | CERT-UA | Sandworm launched Industroyer2 and CaddyWiper against Ukrainian Electrical Energy Facilities | [cert.gov.ua](https://cert.gov.ua/article/39518) |
+| 12 APR | ESET | Sandworm's attack used an ICS-capable malware and regular disk wipers for Windows, Linux and Solaris operating systems | [welivesecurity.com](https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/) |
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
