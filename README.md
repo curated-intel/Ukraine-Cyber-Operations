@@ -99,13 +99,17 @@ Curated Intelligence is working with analysts from around the world to provide u
 - 2022-04-23
   - Additional Threat Reports have been added
 
-#### `Threat Reports`
+#### `January Threat Reports`
 | Date | Source | Threat(s) | URL |
 | --- | --- | --- | --- |
 | 14 JAN | SSU Ukraine | Website Defacements | [ssu.gov.ua](https://ssu.gov.ua/novyny/sbu-rozsliduie-prychetnist-rosiiskykh-spetssluzhb-do-sohodnishnoi-kiberataky-na-orhany-derzhavnoi-vlady-ukrainy)|
 | 15 JAN | Microsoft | WhisperGate wiper (DEV-0586) | [microsoft.com](https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/) |
 | 19 JAN | Elastic | WhisperGate wiper (Operation BleedingBear) | [elastic.github.io](https://elastic.github.io/security-research/malware/2022/01/01.operation-bleeding-bear/article/) |
 | 31 JAN | Symantec | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine) |
+
+#### `February Threat Reports`
+| Date | Source | Threat(s) | URL |
+| --- | --- | --- | --- |
 | 2 FEB | RaidForums | Access broker "GodLevel" offering Ukrainain algricultural exchange | RaidForums [not linked] |
 | 2 FEB | CERT-UA | UAC-0056 using SaintBot and OutSteel malware | [cert.gov.ua](https://cert.gov.ua/article/18419) |
 | 3 FEB | PAN Unit42 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/gamaredon-primitive-bear-ukraine-update-2021/) |
@@ -158,6 +162,10 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 28 FEB | Microsoft | FoxBlade (aka HermeticWiper) | [blogs.microsoft.com](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/?preview_id=65075) |
 | 28 FEB | @heymingwei | Potential BGP hijacks attempts against Ukrainian Internet Names Center | [twitter.com/heymingwei](https://twitter.com/heymingwei/status/1498362715198263300?s=20&t=Ju31gTurYc8Aq_yZMbvbxg) |
 | 28 FEB | @cyberknow20 | Stormous ransomware targets Ukraine Ministry of Foreign Affairs | [twitter.com/cyberknow20](https://twitter.com/cyberknow20/status/1498434090206314498?s=21) | 
+
+#### `March Threat Reports`
+| Date | Source | Threat(s) | URL |
+| --- | --- | --- | --- |
 | 1 MAR | ESET | IsaacWiper and HermeticWizard | [welivesecurity.com](https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/) |
 | 1 MAR | Proofpoint | Ukrainian armed service member's email compromised and sent malspam containing the SunSeed malware (likely TA445/UNC1151/Ghostwriter) | [proofpoint.com](https://www.proofpoint.com/us/blog/threat-insight/asylum-ambuscade-state-actor-uses-compromised-private-ukrainian-military-emails) |
 | 1 MAR | Elastic | HermeticWiper | [elastic.github.io](https://elastic.github.io/security-research/intelligence/2022/03/01.hermeticwiper-targets-ukraine/article/) |
@@ -221,6 +229,10 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 30 MAR | InQuest | CloudAtlas APT group linked to a maldoc impersonating the United States Securities and Exchange Commission | [inquest.net](https://inquest.net/blog/2022/03/30/cloud-atlas-maldoc) |
 | 31 MAR | ReverseMode | VIASAT incident: from speculation to technical details | [reversemode.com](https://www.reversemode.com/2022/03/viasat-incident-from-speculation-to.html) |
 | 31 MAR | SentinelLabs | [AcidRain](https://bazaar.abuse.ch/sample/9b4dfaca873961174ba935fddaf696145afe7bbf5734509f95feb54f3584fd9a/) IoT Wiper (ELF MIPS), connected to the [VPNFilter](https://bazaar.abuse.ch/sample/47f521bd6be19f823bfd3a72d851d6f3440a6c4cc3d940190bdc9b6dd53a83d6/) stage 3 destructive plugin | [sentinelone.com](https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/) |
+
+#### `April Threat Reports`
+| Date | Source | Threat(s) | URL |
+| --- | --- | --- | --- |
 | 1 APR | Malwarebytes | UAC-0056 (aka SaintBear, UNC2589 and TA471) is a cyber espionage actor that has been active since early 2021 and has mainly targeted Ukraine and Georgia | [blog.malwarebytes.com](https://blog.malwarebytes.com/threat-intelligence/2022/04/new-uac-0056-activity-theres-a-go-elephant-in-the-room/) |
 | 2 APR | Ukraine SBU | According to preliminary data, the organization of cyber sabotage was carried out by the Russian special services, and specialized hacker groups APT28, ART29, Sandworm, BerserkBear, Gamaredon, Vermin, etc. were implemented. | [t.me/SBUkr](https://t.me/SBUkr/4043) |
 | 3 APR | me | Low-detect BlackGuard infostealer uploaded to AnyRun from Ukraine | [twitter.com/BushidoToken](https://twitter.com/BushidoToken/status/1510619652946378754) |
