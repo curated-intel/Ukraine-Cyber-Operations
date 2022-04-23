@@ -19,8 +19,8 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Added [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) section
 - 2022-02-27
   - Additional threat reports have been added
-  - Added [Data Brokers](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#data-brokers) section
-  - Added [Access Brokers](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/README.md#access-brokers) section
+  - Added [Data Brokers](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/access_data_brokers.md) section
+  - Added [Access Brokers](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/access_data_brokers.md) section
 - 2022-02-28
   - Added Russian Cyber Operations Against Ukraine Timeline by ETAC
   - Added Vetted and Contextualized [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/ETAC_IOCs) by ETAC
