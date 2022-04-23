@@ -96,6 +96,8 @@ Curated Intelligence is working with analysts from around the world to provide u
   - Additional Threat Reports have been added
 - 2022-04-08
   - Additional Threat Reports have been added
+- 2022-04-23
+  - Additional Threat Reports have been added
 
 #### `Threat Reports`
 | Date | Source | Threat(s) | URL |
@@ -235,6 +237,15 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 8 APR | MFA Finland | Russia accused of disruptions in the Foreign Ministry's online services: Um[.]fi and Finlanabroad[.]fi sites were targeted by DDoS | [twitter.com/Ulkoministerio](https://twitter.com/Ulkoministerio/status/1512368322012233731?s=20&t=Eh6rnggBh4Zvn8la45AL5Q) |
 | 12 APR | CERT-UA | Sandworm launched Industroyer2 and CaddyWiper against Ukrainian Electrical Energy Facilities | [cert.gov.ua](https://cert.gov.ua/article/39518) |
 | 12 APR | ESET | Sandworm's attack used an ICS-capable malware and regular disk wipers for Windows, Linux and Solaris operating systems | [welivesecurity.com](https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/) |
+| 14 APR | CERT-UA | UAC-0097 Cyberattack on Ukrainian state organizations using XSS exploit vulnerability in Zimbra Collaboration Suite (CVE-2018-6882) | [cert.gov.ua](https://cert.gov.ua/article/39606) |
+| 14 APR | CERT-UA | UAC-0098 Cyberattack on Ukrainian state organizations using icedID malware | [cert.gov.ua](https://cert.gov.ua/article/39609) |
+| 18 APR | CERT-UA | UAC-0098 Cyberattack on Ukrainian state organizations using the Azovstal theme and the Cobalt Strike Beacon | [cert.gov.ua](https://cert.gov.ua/article/39708) |
+| 19 APR | CERT-UA | Online fraud using the subject of "financial assistance from EU countries" | [cert.gov.ua](https://cert.gov.ua/article/39727) |
+| 20 APR | Symantec | Shuckworm/Gamaredon/UAC-0010: Espionage Group Continues Intense Campaign Against Ukraine | [symantec.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-intense-campaign-ukraine) |
+| 20 APR | TheRecord | Interview with Natalia Tkachuk, head of the Information Security and Cybersecurity Service — part of the National Security and Defense Council of Ukraine | [therecord.media](https://therecord.media/from-the-front-lines-of-the-first-real-cyberwar/) |
+| 22 APR | SSSCIP Ukraine | UAC-0010 (aka Armageddon), UAC-0051 (aka UNC1151), UAC-0028 (aka APT28) are the top three groups that have waged the most number of cyberattacks on Ukrainian infrastructure | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1517553942678446082?s=21&t=B45Ox-B9amKu9jTt0BT8Zw) |
+| 23 APR | SSSCIP Ukraine | Details about Sandworm attacks against the Ukrainian electricity sector | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1517806362495012865) |
+
 
 #### `Access Brokers`
 | Date | Threat(s) | Source |
