@@ -3,101 +3,36 @@
 # Ukraine-Cyber-Operations
 Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. ([Blog](https://www.curatedintel.org/2021/08/welcome.html) | [Twitter](https://twitter.com/CuratedIntel) | [LinkedIn](https://www.linkedin.com/company/curatedintelligence/))
 
+### `Resources`
+  - Timeline of Threat Reports
+    - [January Threat Reports](https://github.com/curated-intel/Ukraine-Cyber-Operations#january-threat-reports)
+    - [February Threat Reports](https://github.com/curated-intel/Ukraine-Cyber-Operations#february-threat-reports)
+    - [March Threat Reports](https://github.com/curated-intel/Ukraine-Cyber-Operations#march-threat-reports)
+    - [April Threat Reports](https://github.com/curated-intel/Ukraine-Cyber-Operations#april-threat-reports)
+  - [Vendor Support](https://github.com/curated-intel/Ukraine-Cyber-Operations#vendor-support) 
+  - [Vetted OSINT Sources](https://github.com/curated-intel/Ukraine-Cyber-Operations#vetted-osint-sources) 
+  - [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) 
+  - Equinix Threat Analysis Center (ETAC) contributions:
+    - Contextualized [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/ETAC_IOCs) by the Equinix Threat Analysis Center (ETAC) `(Last updated 25 March 2022)`
+    - Contextualized CERT-UA IOCs - see [here](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_IOCs/CERT-UA_IOCs.csv) `(Last updated 28 March 2022)`
+    - Vetted [YARA rule collection](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/yara) by the Equinix Threat Analysis Center (ETAC) `(Last updated 4 April 2022)`
+    - Graphic of a Timeline of Russia-Ukraine Cyberwar
+    - Graphic of a Map of Russia-Ukraine Cyberwar
+  - KPMG-Egyde Contributions: 
+    - Added loosely-vetted [IOC Threat Hunt Feeds](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered) (h/t [0xDISREL](https://twitter.com/0xDISREL)) `(Last updated 7 April 2022)`
+    - IOCs shared by these feeds are `LOW-TO-MEDIUM CONFIDENCE` we strongly recommend NOT adding them to a blocklist
+    - These could potentially be used for `THREAT HUNTING` and could be added to a `WATCHLIST`
+    - IOCs are generated in `MISP COMPATIBLE` CSV format
+    - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_LowConfidence_Unfiltered/Ukraine-Crisis_DomainTools_ThreatHunt_Feed.csv) for recently registered Ukrainian domain names (h/t DomainTools)
+    - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered/Ukraine-Crisis_RecordedFuture_ThreatHunt_Feed.csv) for threat groups targeting Ukraine (h/t RecordedFuture)
+    - Ukrainain organizations offered by [Access and Data Brokers](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/access_data_brokers.md) on underground forums
+
+### `Graphics by ETAC`
+
 ![timeline](UkraineTimelineUpdated.png)
 
 ![cyberwar](Russia-Ukraine%20Cyberwar.png)
 
-### Analyst Comments:
-
-- 2022-02-25
-  - Creation of the initial repository to help organisations in Ukraine
-  - Added [Threat Reports](https://github.com/curated-intel/Ukraine-Cyber-Operations#threat-reports) section
-  - Added [Vendor Support](https://github.com/curated-intel/Ukraine-Cyber-Operations#vendor-support) section
-- 2022-02-26
-  - Additional resources, chronologically ordered (h/t Orange-CD)
-  - Added [Vetted OSINT Sources](https://github.com/curated-intel/Ukraine-Cyber-Operations#vetted-osint-sources) section 
-  - Added [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) section
-- 2022-02-27
-  - Additional threat reports have been added
-  - Added [Data Brokers](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/access_data_brokers.md) section
-  - Added [Access Brokers](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/access_data_brokers.md) section
-- 2022-02-28
-  - Added Russian Cyber Operations Against Ukraine Timeline by ETAC
-  - Added Vetted and Contextualized [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/ETAC_IOCs) by ETAC
-- 2022-03-01
-  - Additional threat reports and resources have been added
-- 2022-03-02
-  - Additional IOCs have been added
-  - Added vetted [YARA rule collection](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/yara) from the Threat Reports by ETAC
-  - Added loosely-vetted [IOC Threat Hunt Feeds](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered) by KPMG-Egyde CTI (h/t [0xDISREL](https://twitter.com/0xDISREL))
-    - IOCs shared by these feeds are `LOW-TO-MEDIUM CONFIDENCE` we strongly recommend NOT adding them to a blocklist
-    - These could potentially be used for `THREAT HUNTING` and could be added to a `WATCHLIST`
-    - IOCs are generated in `MISP COMPATIBLE` CSV format
-- 2022-03-03
-  - Additional threat reports and vendor support resources have been added
-  - Updated [Log4Shell IOC Threat Hunt Feeds](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/KPMG_Log4Shell_Feeds) by KPMG-Egyde CTI; not directly related to Ukraine, but still a widespread vulnerability.
-  - Added diagram of Russia-Ukraine Cyberwar Participants 2022 by ETAC
-  - Additional IOCs have been added
-- 2022-03-04
-  - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_LowConfidence_Unfiltered/Ukraine-Crisis_DomainTools_ThreatHunt_Feed.csv) for recently registered Ukrainian domain names (h/t DomainTools)
-  - Additional [Threat Hunt Feed](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered/Ukraine-Crisis_RecordedFuture_ThreatHunt_Feed.csv) for threat groups targeting Ukraine (h/t RecordedFuture)
-- 2022-03-05
-  - Additional threat reports have been added
-- 2022-03-06
-  - Additional [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) for understanding the Ukraine-conflict (h/t UT CREEES)
-- 2022-03-07
-  - Additional Threat Reports have been added
-  - Additional IOCs have been added
-- 2022-03-08
-  - Additional Threat Reports have been added
-  - Additional IOCs have been added
-- 2022-03-09
-  - Additional Threat Reports have been added
-  - Additional YARA rules have been added
-- 2022-03-14
-  - An updated Timeline of attacks has been added 
-  - Additional Threat Reports have been added
-  - Additional IOCs have been added
-  - Additional YARA rules have been added
-- 2022-03-15
-  - Additional Threat Reports have been added
-  - Additional IOCs have been added
-- 2022-03-18
-  - Additional Threat Reports have been added
-  - Additional IOCs have been added to the master CSV file
-  - A new CSV for CERT-UA IOCs specifically has been created - see [here](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_IOCs/CERT-UA_IOCs.csv)
-- 2022-03-19
-  - Additional Threat Reports have been added
-  - Additional IOCs have been added
-- 2022-03-20
-  - Additional YARA rules have been added (h/t [Arkbird_SOLG](https://twitter.com/Arkbird_SOLG))
-- 2022-03-21
-  - An Additional Threat Report has been added
-  - Additional YARA rules have been added
-- 2022-03-23
-  - Additional Threat Reports have been added
-  - Additional IOCs have been added
-- 2022-03-25
-  - Additional Threat Reports have been added
-  - Additional IOCs have been added
-- 2022-03-28
-  - Additional Threat Reports have been added
-  - Additional IOCs have been added
-- 2022-03-30
-  - Additional Threat Reports have been added
-  - Additional YARA rules have been added
-- 2022-04-01
-  - Additional Threat Reports have been added
-  - Additional Vendor Support have been added
-- 2022-04-04
-  - Additional Threat Reports have been added
-  - Additional YARA rules have been added
-- 2022-04-07
-  - Additional Threat Reports have been added
-- 2022-04-08
-  - Additional Threat Reports have been added
-- 2022-04-23
-  - Additional Threat Reports have been added
 
 #### `January Threat Reports`
 | Date | Source | Threat(s) | URL |
