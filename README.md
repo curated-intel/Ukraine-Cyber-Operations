@@ -13,9 +13,9 @@ Curated Intelligence is working with analysts from around the world to provide u
   - [Vetted OSINT Sources](https://github.com/curated-intel/Ukraine-Cyber-Operations#vetted-osint-sources) 
   - [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) 
   - Equinix Threat Analysis Center (ETAC) contributions:
-    - Contextualized [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/ETAC_IOCs) by the Equinix Threat Analysis Center (ETAC) `(Last updated 25 March 2022)`
+    - Contextualized [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/ETAC_IOCs) by ETAC `(Last updated 25 March 2022)`
     - Contextualized CERT-UA IOCs - see [here](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_IOCs/CERT-UA_IOCs.csv) `(Last updated 28 March 2022)`
-    - Vetted [YARA rule collection](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/yara) by the Equinix Threat Analysis Center (ETAC) `(Last updated 4 April 2022)`
+    - Vetted [YARA rule collection](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/yara) by ETAC `(Last updated 4 April 2022)`
     - Graphic of a Timeline of Russia-Ukraine Cyberwar
     - Graphic of a Map of Russia-Ukraine Cyberwar
   - KPMG-Egyde Contributions: 
