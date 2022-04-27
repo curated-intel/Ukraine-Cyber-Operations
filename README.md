@@ -80,7 +80,10 @@ Curated Intelligence is working with analysts from around the world to provide u
 | UT CREEES | https://liberalarts.utexas.edu/slavic/resources/ukraine-conflict-resources.php | Compiled resources to help understand the Russian invasion of Ukraine, with links to resources, action items, and academic sources |
 | Telegram | https://t.me/s/itarmyofukraine2022 | IT ARMY of Ukraine |
 | Telegram | https://t.me/s/cert_ua | Computer Emergency Response Team (CERT) of Ukraine |
+| CERT-UA | https://cert.gov.ua/articles | Computer Emergency Response Team (CERT) of Ukraine |
 | Telegram | https://t.me/SBUkr | Security Service of Ukraine (SBU) |
+| Twitter | https://twitter.com/dsszzi | State Service of Special Communications and Information Protection of Ukraine |
+
 
 ### Note:
 
