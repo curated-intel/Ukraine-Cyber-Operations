@@ -3,7 +3,8 @@
 | --- | --- | --- | --- |
 | 1 APR | Malwarebytes | UAC-0056 (aka SaintBear, UNC2589 and TA471) is a cyber espionage actor that has been active since early 2021 and has mainly targeted Ukraine and Georgia | [blog.malwarebytes.com](https://blog.malwarebytes.com/threat-intelligence/2022/04/new-uac-0056-activity-theres-a-go-elephant-in-the-room/) |
 | 2 APR | Ukraine SBU | According to preliminary data, the organization of cyber sabotage was carried out by the Russian special services, and specialized hacker groups APT28, ART29, Sandworm, BerserkBear, Gamaredon, Vermin, etc. were implemented. | [t.me/SBUkr](https://t.me/SBUkr/4043) |
-| 3 APR | me | Low-detect BlackGuard infostealer uploaded to AnyRun from Ukraine | [twitter.com/BushidoToken](https://twitter.com/BushidoToken/status/1510619652946378754) |
+| 3 APR | ETAC | Low-detect BlackGuard infostealer uploaded to AnyRun from Ukraine | [twitter.com/BushidoToken](https://twitter.com/BushidoToken/status/1510619652946378754) |
+| 4 APR | Intezer | Elephant Framework Delivered in Phishing Attacks Against Ukrainian Organizations | [intezer.com](https://www.intezer.com/blog/research/elephant-malware-targeting-ukrainian-orgs/) |
 | 4 APR | CERT-UA | UAC-0010 (Armageddon) cyberattack on Ukrainian state organizations, phishing w/ RAR -> HTA -> VBS | [cert.gov.ua](https://cert.gov.ua/article/39138) |
 | 4 APR | CERT-UA | UAC-0010 (Armageddon) cyberattack on state institutions of the European Union countries, phishing w/ RAR -> LNK | [cert.gov.ua](https://cert.gov.ua/article/39086) |
 | 5 APR | CERT-UA | UAC-0094 targets Telegram users via SMS phishing, stealing session data, the list of contacts and conversation history | [cert.gov.ua](https://cert.gov.ua/article/39253) |
