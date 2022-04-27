@@ -4,14 +4,15 @@
 Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. ([Blog](https://www.curatedintel.org/2021/08/welcome.html) | [Twitter](https://twitter.com/CuratedIntel) | [LinkedIn](https://www.linkedin.com/company/curatedintelligence/))
 
 ### `Resources`
-  - Timeline of Threat Reports
-    - [January Threat Reports](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Threat%20Reports/January.md)
-    - [February Threat Reports](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Threat%20Reports/February.md)
-    - [March Threat Reports](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Threat%20Reports/March.md)
-    - [April Threat Reports](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Threat%20Reports/April.md)
-  - [Vendor Support](https://github.com/curated-intel/Ukraine-Cyber-Operations#vendor-support) 
-  - [Vetted OSINT Sources](https://github.com/curated-intel/Ukraine-Cyber-Operations#vetted-osint-sources) 
-  - [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) 
+  - ### Timeline of Threat Reports
+    - #### [`January Threat Reports`](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Threat%20Reports/January.md)
+    - #### [`February Threat Reports`](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Threat%20Reports/February.md)
+    - #### [`March Threat Reports`](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Threat%20Reports/March.md)
+    - #### [`April Threat Reports`](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Threat%20Reports/April.md)
+
+  - ### [Vendor Support](https://github.com/curated-intel/Ukraine-Cyber-Operations#vendor-support) 
+  - ### [Vetted OSINT Sources](https://github.com/curated-intel/Ukraine-Cyber-Operations#vetted-osint-sources) 
+  - ### [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) 
   - Equinix Threat Analysis Center (ETAC) contributions:
     - Contextualized [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/ETAC_IOCs) by ETAC `(Last updated 25 March 2022)`
     - Contextualized CERT-UA IOCs - see [here](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_IOCs/CERT-UA_IOCs.csv) `(Last updated 28 March 2022)`
@@ -32,6 +33,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 ![timeline](UkraineTimelineUpdated.png)
 
 ![cyberwar](Russia-Ukraine%20Cyberwar.png)
+
 
 #### `Vendor Support`
 | Vendor | Offering | URL |
