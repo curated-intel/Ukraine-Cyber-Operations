@@ -192,6 +192,8 @@ Curated Intelligence is working with analysts from around the world to provide u
 | 20 APR | TheRecord | Interview with Natalia Tkachuk, head of the Information Security and Cybersecurity Service — part of the National Security and Defense Council of Ukraine | [therecord.media](https://therecord.media/from-the-front-lines-of-the-first-real-cyberwar/) |
 | 22 APR | SSSCIP Ukraine | UAC-0010 (aka Armageddon), UAC-0051 (aka UNC1151), UAC-0028 (aka APT28) are the top three groups that have waged the most number of cyberattacks on Ukrainian infrastructure | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1517553942678446082?s=21&t=B45Ox-B9amKu9jTt0BT8Zw) |
 | 23 APR | SSSCIP Ukraine | Details about Sandworm attacks against the Ukrainian electricity sector | [twitter.com/dsszzi](https://twitter.com/dsszzi/status/1517806362495012865) |
+| 26 APR | CERT-UA | UAC-0056 group cyberattack using GraphSteel and GrimPlant malware and COVID-19 topics, the sending of e-mails was made from the compromised account of an employee of the state body of Ukraine | [cert.gov.ua](https://cert.gov.ua/article/39882) |
+| 27 APR | Microsoft | STRONTIUM, IRIDIUM, DEV-0586, NOBELIUM, ACTINIUM, BROMINE, KRYPTON (aliases in the report) | [blogs.microsoft.com](https://blogs.microsoft.com/on-the-issues/2022/04/27/hybrid-war-ukraine-russia-cyberattacks/) |
 
 #### `Vendor Support`
 | Vendor | Offering | URL |
