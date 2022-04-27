@@ -10,16 +10,16 @@ Curated Intelligence is working with analysts from around the world to provide u
     - #### [`March Threat Reports`](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Threat%20Reports/March.md)
     - #### [`April Threat Reports`](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/Threat%20Reports/April.md)
 
-  - ### [Vendor Support](https://github.com/curated-intel/Ukraine-Cyber-Operations#vendor-support) 
-  - ### [Vetted OSINT Sources](https://github.com/curated-intel/Ukraine-Cyber-Operations#vetted-osint-sources) 
-  - ### [Miscellaneous Resources](https://github.com/curated-intel/Ukraine-Cyber-Operations#miscellaneous-resources) 
-  - Equinix Threat Analysis Center (ETAC) contributions:
+  - ### Vendor Support
+  - ### Vetted OSINT Sources 
+  - ### Miscellaneous Resources
+  - ### Equinix Threat Analysis Center (ETAC) contributions:
     - Contextualized [Indicators of Compromise (IOCs)](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/ETAC_IOCs) by ETAC `(Last updated 25 March 2022)`
     - Contextualized CERT-UA IOCs - see [here](https://github.com/curated-intel/Ukraine-Cyber-Operations/blob/main/ETAC_IOCs/CERT-UA_IOCs.csv) `(Last updated 28 March 2022)`
     - Vetted [YARA rule collection](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/yara) by ETAC `(Last updated 4 April 2022)`
     - Graphic of a Timeline of Russia-Ukraine Cyberwar `(Last updated 14 March 2022`)
     - Graphic of a Map of Russia-Ukraine Cyberwar `(Last updated 3 March 2022 `)
-  - KPMG-Egyde Contributions: 
+  - ### KPMG-Egyde Contributions: 
     - Added loosely-vetted [IOC Threat Hunt Feeds](https://github.com/curated-intel/Ukraine-Cyber-Operations/tree/main/KPMG-Egyde_Ukraine-Crisis_Feeds/MISP-CSV_MediumConfidence_Filtered) (h/t [0xDISREL](https://twitter.com/0xDISREL)) `(Last updated 7 April 2022)`
     - IOCs shared by these feeds are `LOW-TO-MEDIUM CONFIDENCE` we strongly recommend NOT adding them to a blocklist
     - These could potentially be used for `THREAT HUNTING` and could be added to a `WATCHLIST`
