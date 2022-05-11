@@ -78,7 +78,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Monash IP Observatory | https://twitter.com/IP_Observatory | Tracking IP address outages across Ukraine |
 | Project Owl Discord | https://discord.com/invite/projectowl | Tracking foreign policy, geopolitical events, military and governments, using a Discord-based crowdsourced approach, with a current emphasis on Ukraine and Russia |
 | russianwarchatter.info | https://www.russianwarchatter.info/ | Known Russian Military Radio Frequencies |
-| UT CREEES | https://liberalarts.utexas.edu/slavic/resources/ukraine-conflict-resources.php | Compiled resources to help understand the Russian invasion of Ukraine, with links to resources, action items, and academic sources |
+| UT CREEES | [liberalarts.utexas.edu](https://liberalarts.utexas.edu/slavic/resources/ukraine-conflict-resources.php) | Compiled resources to help understand the Russian invasion of Ukraine, with links to resources, action items, and academic sources |
 | Telegram | https://t.me/s/itarmyofukraine2022 | IT ARMY of Ukraine |
 | Telegram | https://t.me/s/cert_ua | Computer Emergency Response Team (CERT) of Ukraine |
 | CERT-UA | https://cert.gov.ua/articles | Computer Emergency Response Team (CERT) of Ukraine |
