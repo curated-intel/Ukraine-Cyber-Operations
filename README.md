@@ -84,6 +84,13 @@ Curated Intelligence is working with analysts from around the world to provide u
 | CERT-UA | https://cert.gov.ua/articles | Computer Emergency Response Team (CERT) of Ukraine |
 | Telegram | https://t.me/SBUkr | Security Service of Ukraine (SBU) |
 | Twitter | https://twitter.com/dsszzi | State Service of Special Communications and Information Protection of Ukraine |
+| Telegram | https://t.me/DIUkraine | The Main Intelligence Directorate of Ukraine |
+| Telegram | https://t.me/UA_National_Police | The National Police of Ukraine |
+| Telegram | https://t.me/spravdi |  Center for Strategic Communications and Information Security of Ukraine |
+| Telegram | https://t.me/verkhovnaradaukrainy | Verkhovna Rada of Ukraine |
+| Telegram | https://t.me/DPSUkr |  State Border Guard Service of Ukraine |
+| Telegram | https://t.me/CenterCounteringDisinformation | Countering Disinformation Center under the NSDC of Ukraine |
+| Telegram | https://t.me/CinCAFU | Commander-in-Chief of the Armed Forces of Ukraine |
 
 
 ### Note:
