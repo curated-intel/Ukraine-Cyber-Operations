@@ -1,4 +1,11 @@
 #### `June Threat Reports`
 | Date | Source | Threat(s) | URL |
 | --- | --- | --- | --- |
-| | | | |
+| 1 JUNE | SkyNews | In an exclusive interview with Sky News, General Paul Nakasone confirmed for the first time that the US had "conducted a series of operations" in response to Russia's invasion of Ukraine. | [news.sky.com](https://news.sky.com/story/us-military-hackers-conducting-offensive-operations-in-support-of-ukraine-says-head-of-cyber-command-12625139) |
+| 2 JUNE | CERT-UA | Cyberattack on Ukrainian state organizations using the Cobalt Strike Beacon malware and exploits to the vulnerabilities CVE-2021-40444 and CVE-2022-30190 | [cert.gov.ua](https://cert.gov.ua/article/40559) |
+| 5 JUNE | SSSCIP of Ukraine | Fake PsyOp campaign of bulk SMS to Ukrainian mobile numbers saying that the National Security and Defense Council had allegedly decided that Ukrainian mobile carriers should cease providing their services in Zaporizhzhia region | [cip.gov.ua](https://cip.gov.ua/en/news/ukrayina-ne-vidklyuchaye-i-ne-vidklyuchatime-ukrayinciv-vid-zv-yazku) |
+| 6 JUNE | SSSCIP of Ukraine | Cyberattack on the OLL.TV service disrupts broadcasting of some Ukrainian TV channels (Football 1 & Indigo Ukraine, Ukraine 24, UA:First) | [cip.gov.ua](https://cip.gov.ua/en/news/kiberataka-rosiyi-na-servis-oll-tv) |
+| 7 JUNE | SBU of Ukraine | The SBU exposed the agent of the Russian Federation, who created 20 pro-Russian Internet media in Ukraine. The total audience of these resources had more than 2.2 million unique users per month. | [t.me/SBUkr](https://t.me/SBUkr/4407) |
+| 9 JUNE | VPM of Ukraine | Starlink Ukraine received its operator license and is now reportedly the primary provider of electronic communication networks and services in Ukraine. | [twitter.com/FedorovMykhailo](https://twitter.com/FedorovMykhailo/status/1534817983201218560) |
+| 9 JUNE | Mikhail Kasimov (@500mk500) | Gamaredon Group activity IOCs - Q2 2022 | [otx.alienvault.com](https://otx.alienvault.com/pulse/62a1bf5273a6c5f00e51cc45) |
+| 10 JUNE | CERT-UA | Massive cyberattack on Media Organizations of Ukraine using crescentImp malware, attributed to UAC-0113 (reportedly associated with the Sandworm group) | [cert.gov.ua](https://cert.gov.ua/article/160530) |
