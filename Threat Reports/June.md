@@ -9,3 +9,5 @@
 | 9 JUNE | VPM of Ukraine | Starlink Ukraine received its operator license and is now reportedly the primary provider of electronic communication networks and services in Ukraine. | [twitter.com/FedorovMykhailo](https://twitter.com/FedorovMykhailo/status/1534817983201218560) |
 | 9 JUNE | Mikhail Kasimov (@500mk500) | Gamaredon Group activity IOCs - Q2 2022 | [otx.alienvault.com](https://otx.alienvault.com/pulse/62a1bf5273a6c5f00e51cc45) |
 | 10 JUNE | CERT-UA | Massive cyberattack on Media Organizations of Ukraine using crescentImp malware, attributed to UAC-0113 (reportedly associated with the Sandworm group) | [cert.gov.ua](https://cert.gov.ua/article/160530) |
+| 13 JUNE | ESET | ESET Threat Report details cyberattacks with links to Ukraine-Russia war | [backendnews.net](https://www.justice.gov/usao-sdca/pr/russian-botnet-disrupted-international-cyber-operation) |
+| 16 JUNE | U.S. Department of Justice | Russian Botnet Disrupted in International Cyber Operation | [justice.gobv](https://www.justice.gov/usao-sdca/pr/russian-botnet-disrupted-international-cyber-operation) |
