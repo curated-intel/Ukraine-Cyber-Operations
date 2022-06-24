@@ -10,10 +10,9 @@
 | 9 JUNE | Mikhail Kasimov (@500mk500) | Gamaredon Group activity IOCs - Q2 2022 | [otx.alienvault.com](https://otx.alienvault.com/pulse/62a1bf5273a6c5f00e51cc45) |
 | 9 JUNE | Cyware | A new pro-Russian hacktivist group dubbed "Cyber Spetsnaz" leverages current geopolitical tensions between Ukraine and Russia to conduct cyberattacks | [cyware.com](https://cyware.com/news/cyber-spetsnazs-operation-panopticon-launches-espionage-attacks-3d49eade)  |
 | 10 JUNE | CERT-UA | Massive cyberattack on Media Organizations of Ukraine using crescentImp malware, attributed to UAC-0113 (reportedly associated with the Sandworm group) | [cert.gov.ua](https://cert.gov.ua/article/160530) |
-| 13 JUNE | ESET | ESET Threat Report details cyberattacks with links to Ukraine-Russia war | [backendnews.net](https://www.justice.gov/usao-sdca/pr/russian-botnet-disrupted-international-cyber-operation) |
 | 14 JUNE | RedDrip7 (QiAnXin) | SFX sample from Gamaredon APT uses decree document of the Russian Federation government as bait  | [twitter.com/reddrip7](https://twitter.com/reddrip7/status/1536548636741738496)  |
 | 14 JUNE | KE-LA | How the Cybercrime Landscape has been Changed following the Russia-Ukraine War | [ke-la.com](https://ke-la.com/how-the-cybercrime-landscape-has-been-changed-following-the-russia-ukraine-war/)  |
-| 16 JUNE | U.S. Department of Justice | Russian Botnet Disrupted in International Cyber Operation | [justice.gobv](https://www.justice.gov/usao-sdca/pr/russian-botnet-disrupted-international-cyber-operation) |
+| 16 JUNE | U.S. Department of Justice | Russian Botnet Disrupted in International Cyber Operation | [justice.gob](https://www.justice.gov/usao-sdca/pr/russian-botnet-disrupted-international-cyber-operation) |
 | 20 JUNE | CERT-UA | UAC-0098 group cyberattack on critical infrastructure of Ukraine | [cert.gov.ua](https://cert.gov.ua/article/339662)  |
 | 22 JUNE | CERT-UA | APT28 cyberattack using CredoMap malware | [cert.gov.ua](https://cert.gov.ua/article/341128)  |
 | 21 JUNE | Malwarebytes | Russia’s APT28 uses fear of nuclear war to spread Follina docs in Ukraine | [blog.malwarebytes.com](https://blog.malwarebytes.com/threat-intelligence/2022/06/russias-apt28-uses-fear-of-nuclear-war-to-spread-follina-docs-in-ukraine/)  |
