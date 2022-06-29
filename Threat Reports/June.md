@@ -21,4 +21,10 @@
 | 22 JUNE | Unit42 PAN | Russia’s Gamaredon aka Primitive Bear APT Group Actively Targeting Ukraine (Updated June 22) | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/gamaredon-primitive-bear-ukraine-update-2021/)  |
 | 22 JUNE | CERT-UA | Cyberattacks by China-associated groups against Russian scientific and technical enterprises and government agencies | [cert.gov.ua](https://cert.gov.ua/article/375404) |
 | 22 JUNE | Microsoft | Defending Ukraine: Early Lessons from the Cyber War (29 page PDF report) | [microsoft.com](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50KOK)  |
-| 24 JUNE | CERT-UA | Cyberattack against Ukrainian telecommunications operators using the DarkCrystal RAT malware | [cert.gov.ua](https://cert.gov.ua/article/405538) |
+| 24 JUNE | CERT-UA | Cyberattack on Ukrainian telecommunications operators using the DarkCrystal RAT malware | [cert.gov.ua](https://cert.gov.ua/article/405538) |
+| 27 JUNE | National Cyber Security Centre of Lithuania | Intense DDoS attacks targeted several companies and institutions in Lithuania | [lrv.lt](https://lrv.lt/en/news/intense-ddos-attacks-targeted-several-companies-and-institutions-in-lithuania) |
+| 27 JUNE | InQuest | GlowSand, collections of maldocs related to war in Ukraine | [inquest.net](https://inquest.net/blog/2022/06/27/glowsand) |
+| 27 JUNE | @h2jazi | Gamaredon APT maldoc | [twitter.com/h2jazi](https://twitter.com/h2jazi/status/1541519335096832000) |
+| 29 JUNE | CyberPolice Ukraine | Ukraine arrests cybercrime gang operating over 400 phishing sites | [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/ukraine-arrests-cybercrime-gang-operating-over-400-phishing-sites/) |
+| 29 JUNE | BNN Bloomberg | Mandiant Finds Possible Link Between Kremlin, Pro-Russian hacktivist group XakNet| [bnnbloomberg.ca](https://www.bnnbloomberg.ca/mandiant-finds-possible-link-between-kremlin-pro-russian-hacktivists-1.1785468) |
+| 29 JUNE | SSU | SSU prevents russian special services from hacking Ukrainian TV channels participating in national telethon, on the eve of the Constitution Day | [ssu.gov.ua](https://ssu.gov.ua/en/novyny/sbu-ne-dala-rosiiskym-spetssluzhbam-zlamaty-ukrainski-telekanaly-yaki-berut-uchast-u-natsionalnomu-telemarafoni) |
