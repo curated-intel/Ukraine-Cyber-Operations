@@ -67,6 +67,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | CybelAngel | CybelAngel offers its services to interested NGOs active in the war at no cost, to minimize the risks of their missions being interrupted by cyber attacks. CybelAngel also offers Ukrainian companies an assessment of their digital exposure in the region at no charge. | [cybelangel.com](https://cybelangel.com/blog/message-on-ukraine/) |
 | Malware Patrol | Free 6 months DNS Firewall service subscription for Ukraine-based companies and goverment entities | [www.linkedin.com](https://www.linkedin.com/feed/update/urn:li:activity:6903059206522712064/) |
 | UnderDefense | UnderDefense is providing Managed Detection & Response services and incident repsonse support for Ukrainian critical infrastructure & government consulting in cybersecurity | [underdefense.com](https://underdefense.com/) |
+| Emerging Threats OPEN | Free Suricata/Snort NIDS signatures with a recent focus on moving Russian APT signatures from the paid ruleset to the free ruleset | [rules.emergingthreats.net/open/](https://rules.emergingthreats.net/open/) |
 
 #### `Vetted OSINT Sources`
 | Handle | Affiliation |
