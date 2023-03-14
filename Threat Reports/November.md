@@ -2,10 +2,10 @@
 | Date | Source | Threat(s) | URL |
 | --- | --- | --- | --- |
 | 3 November | Carnegie Endowment | Evaluating the International Support to Ukrainian Cyber Defense | [carnegieendowment.org](https://carnegieendowment.org/2022/11/03/evaluating-international-support-to-ukrainian-cyber-defense-pub-88322) |
+| 8 November | CERT-UA | Cyber attack of the UAC-0010 group: sending e-mails, apparently, on behalf of State Special Communications (CERT-UA#5570) | [cert.gov.ua](https://cert.gov.ua/article/2681855) |
+| 9 November | CERT-UA | UAC-0133 - Distribution of e-mails with a fake scanner, supposedly on behalf of CERT-UA (CERT-UA#5583) | [cert.gov.ua](https://cert.gov.ua/article/2698320) |
+| 11 November | CERT-UA | Information on cyberattacks of the group UAC-0118 (FRwL) using the Somnia malware (CERT-UA#5185) | [cert.gov.ua](https://cert.gov.ua/article/2724253) |
 | 14 November | CRDF Global | CRDF Global Becomes Platform for Cyber Defense Assistance Collaborative (CDAC) for Ukraine, Receives Grant from Craig  Newmark Philanthropies | [carnegieendowment.org](https://www.crdfglobal.org/news/crdf-global-becomes-platform-for-cyber-defense-assistance-collaborative-cdac-for-ukraine-receives-grant-from-craig-newmark-philanthtrellix.coropies/) |
 | 15 November | Trellix | Wipermania: An All You Can Wipe Buffet | [trellix.com](https://www.trellix.com/en-us/about/newsroom/stories/research/wipermania-an-all-you-can-wipe-buffet.html) |
 | 21 November | @esetresearch | On November 21st ESETResearch detected and alerted CERT_UA of a wave of ransomware we named RansomBoggs, deployed in multiple organizations in Ukraine. While the malware written in .NET is new, its deployment is similar to previous attacks attributed to #Sandworm. | [twitter.com/esetresearch](https://twitter.com/ESETresearch/status/1596181925663760386) |
 | 23 November | Trustwave | Killnet Claims Attacks Against Starlink, Whitehouse.gov, and United Kingdom Websites | [trustwave.com](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/killnet-claims-attacks-against-starlink-whitehousegov-and-united-kingdom-websites/) |
-
-
-

@@ -6,5 +6,4 @@
 | 13 October | Radware | Project DDOSIA Russia's answer to disBalancer | [radware.com](https://www.radware.com/security/threat-advisories-and-attack-reports/project-ddosia-russias-answer-to-disbalancer/) |
 | 14 October | Microsoft | New “Prestige” ransomware impacts organizations in Ukraine and Poland | [microsoft.com](https://www.microsoft.com/en-us/security/blog/2022/10/14/new-prestige-ransomware-impacts-organizations-in-ukraine-and-poland/) |
 | 19 October | Intel471 | Pro-Russian Hacktivism and Its Role in the War in Ukraine | [intel471.com](https://intel471.com/blog/pro-russian-hacktivism-and-its-role-in-the-war-in-ukraine) |
-
-
+| 22 October | CERT-UA | UAC-0132 - Cyber attack on state organizations of Ukraine using RomCom malware. Possible involvement of Cuba Ransomware aka Tropical Scorpius aka UNC2596 (CERT-UA#5509) | [cert.gov.ua](https://cert.gov.ua/article/2394117) |

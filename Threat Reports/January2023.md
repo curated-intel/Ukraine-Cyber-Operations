@@ -12,6 +12,7 @@
 | 25 JAN | Reuters | Russian 'hacktivists' briefly knock German websites offline | [reuters.com](https://www.reuters.com/world/europe/russian-hacktivists-briefly-knock-german-websites-offline-2023-01-25/)|
 | 27 JAN | Team Cymru | A Blog with NoName - Further Insight into the Hacktivist Operation Targeting NATO and Affiliated Nations | [team-cymru.com](https://www.team-cymru.com/post/a-blog-with-noname)|
 | 27 JAN | @esetresearch | BREAKING On January 25th #ESETResearch discovered a new cyberattack in  Ukraine. SwiftSlicer  | [twitter.com/ESETresearch](https://twitter.com/ESETresearch/status/1618960022150729728)|
+| 27 JAN | CERT-UA | Cyber attack on the Ukrinform information and communication system (CERT-UA#5850) | [cert.gov.ua](https://cert.gov.ua/article/3718487) |
 | 29 JAN | Security Affairs | IT Army of Ukraine claims to have breached and leaded data from Gazprom in Russia | [securityaffairs.com](https://securityaffairs.com/141640/hacktivism/it-army-of-ukraine-hacked-gazprom.html)|
 | 31 JAN | ESET | APT ACTIVITY REPORT T3 2022 | [welivesecurity.com](https://www.welivesecurity.com/wp-content/uploads/2023/01/eset_apt_activity_report_t32022.pdf)|
 | 31 JAN | ESET | ESET Research: Russian APT groups, including Sandworm, continue their attacks against Ukraine with wipers and ransomware| [eset.com](https://www.eset.com/int/about/newsroom/press-releases/research/eset-research-russian-apt-groups-including-sandworm-continue-their-attacks-against-ukraine-with-wipe/)|
